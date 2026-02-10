@@ -1,0 +1,4 @@
+docker_id;generation;full_time;service;command
+f383ec54-e2b6-4cfc-9582-7051b5b9ce75;3;2025-10-15 10:49:22;-1;ping www.youtube.com
+f383ec54-e2b6-4cfc-9582-7051b5b9ce75;3;2025-10-15 10:49:37;-1;sudo -l
+f383ec54-e2b6-4cfc-9582-7051b5b9ce75;3;2025-10-15 10:50:19;-1;crontab -l

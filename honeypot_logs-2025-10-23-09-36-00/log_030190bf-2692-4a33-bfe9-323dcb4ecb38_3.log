@@ -1,0 +1,2 @@
+docker_id;generation;full_time;service;command
+030190bf-2692-4a33-bfe9-323dcb4ecb38;3;2025-10-15 09:18:50;-1;find / -name "*flag*" 2>/dev/null

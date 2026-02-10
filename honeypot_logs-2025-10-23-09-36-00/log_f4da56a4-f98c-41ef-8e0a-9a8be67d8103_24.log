@@ -1,0 +1,13 @@
+docker_id;generation;full_time;service;command
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;24;2025-10-19 19:06:31;-1;nmap 10.0.0.11-19
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;24;2025-10-19 19:07:04;8;ls
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;24;2025-10-19 19:07:06;8;ps aux
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;24;2025-10-19 19:07:12;8;cat /app/ssh/start.sh
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;24;2025-10-19 19:07:16;8;cat /app/update.py
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;24;2025-10-19 19:07:35;8;cat /app/drones/retrieve-pic.sh
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;24;2025-10-19 19:07:39;8;cat /app/drones/drone-controller.py
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;24;2025-10-19 19:07:51;8;ls /etc/cr*
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;24;2025-10-19 19:07:59;8;ls
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;24;2025-10-19 19:08:02;8;ls /
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;24;2025-10-19 19:08:20;8;sudo -L
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;24;2025-10-19 19:08:22;8;sudo -l

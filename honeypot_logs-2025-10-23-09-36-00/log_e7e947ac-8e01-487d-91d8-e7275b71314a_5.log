@@ -1,0 +1,5 @@
+docker_id;generation;full_time;service;command
+e7e947ac-8e01-487d-91d8-e7275b71314a;5;2025-10-20 16:27:48;-1;clear
+e7e947ac-8e01-487d-91d8-e7275b71314a;5;2025-10-20 16:28:52;-1;echo "abcd"
+e7e947ac-8e01-487d-91d8-e7275b71314a;5;2025-10-20 16:31:19;-1;while IFS= read -r l; do printf '%s\n' "$l"; done </etc/hosts
+e7e947ac-8e01-487d-91d8-e7275b71314a;5;2025-10-20 16:31:24;-1;while IFS= read -r l; do printf '%s\n' "$l"; done </etc/passwd

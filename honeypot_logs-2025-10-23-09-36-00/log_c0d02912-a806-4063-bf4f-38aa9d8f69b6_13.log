@@ -1,0 +1,4 @@
+docker_id;generation;full_time;service;command
+c0d02912-a806-4063-bf4f-38aa9d8f69b6;13;2025-10-21 22:07:54;4;ls -l /home/ot-admin/flag.txt && stat /home/ot-admin/flag.txt
+c0d02912-a806-4063-bf4f-38aa9d8f69b6;13;2025-10-21 22:08:31;4;ls -la /bin/rootshell /bin/rootshell/myShell 2>/dev/null || echo "no rootshell dir"
+c0d02912-a806-4063-bf4f-38aa9d8f69b6;13;2025-10-21 22:08:31;4;stat /bin/rootshell/myShell 2>/dev/null || true

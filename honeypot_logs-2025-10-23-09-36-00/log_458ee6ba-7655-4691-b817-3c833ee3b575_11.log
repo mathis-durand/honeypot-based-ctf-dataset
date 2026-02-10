@@ -1,0 +1,3 @@
+docker_id;generation;full_time;service;command
+458ee6ba-7655-4691-b817-3c833ee3b575;11;2025-10-20 20:39:10;0;cd /logs/
+458ee6ba-7655-4691-b817-3c833ee3b575;11;2025-10-20 20:39:46;0;ls -la

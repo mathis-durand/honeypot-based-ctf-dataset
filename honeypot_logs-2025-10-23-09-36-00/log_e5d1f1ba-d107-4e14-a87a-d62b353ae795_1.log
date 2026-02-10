@@ -1,0 +1,9 @@
+docker_id;generation;full_time;service;command
+e5d1f1ba-d107-4e14-a87a-d62b353ae795;1;2025-10-16 16:02:25;-1;ls
+e5d1f1ba-d107-4e14-a87a-d62b353ae795;1;2025-10-16 16:02:28;-1;ls -a
+e5d1f1ba-d107-4e14-a87a-d62b353ae795;1;2025-10-16 16:02:34;-1;cd .ssh/
+e5d1f1ba-d107-4e14-a87a-d62b353ae795;1;2025-10-16 16:02:35;-1;ls
+e5d1f1ba-d107-4e14-a87a-d62b353ae795;1;2025-10-16 16:02:37;-1;cat authorized_keys 
+e5d1f1ba-d107-4e14-a87a-d62b353ae795;1;2025-10-16 16:02:48;-1;files ./$
+e5d1f1ba-d107-4e14-a87a-d62b353ae795;1;2025-10-16 16:02:52;-1;files ./*
+e5d1f1ba-d107-4e14-a87a-d62b353ae795;1;2025-10-16 16:05:21;-1;find / -perm -4000 -type f 2>/dev/null

@@ -1,0 +1,4 @@
+docker_id;generation;full_time;service;command
+458ee6ba-7655-4691-b817-3c833ee3b575;10;2025-10-20 20:25:37;3;cd /logs/
+458ee6ba-7655-4691-b817-3c833ee3b575;10;2025-10-20 20:29:55;3;id
+458ee6ba-7655-4691-b817-3c833ee3b575;10;2025-10-20 20:29:57;3;cat command_history.log 

@@ -1,0 +1,21 @@
+docker_id;generation;full_time;service;command
+4f4e4f5a-d6c3-4609-a321-e9a486dbd4b5;7;2025-10-21 23:43:24;-1;# Sur le bastion (après ssh -p 34644 ...):
+4f4e4f5a-d6c3-4609-a321-e9a486dbd4b5;7;2025-10-21 23:43:24;-1;IPS=$(seq 11 19 | sed 's/^/10.0.0./')
+4f4e4f5a-d6c3-4609-a321-e9a486dbd4b5;7;2025-10-21 23:43:24;-1;OUT=/tmp/hosts_2222.txt; : >"$OUT"
+4f4e4f5a-d6c3-4609-a321-e9a486dbd4b5;7;2025-10-21 23:43:24;-1;BANS=/tmp/banners_2222.txt; : >"$BANS"
+4f4e4f5a-d6c3-4609-a321-e9a486dbd4b5;7;2025-10-21 23:43:24;-1;KEYS=/tmp/hostkeys_2222.txt; : >"$KEYS"
+4f4e4f5a-d6c3-4609-a321-e9a486dbd4b5;7;2025-10-21 23:43:24;-1;for H in $IPS; do
+4f4e4f5a-d6c3-4609-a321-e9a486dbd4b5;7;meout 1;-1;bash -lc "echo > /dev/tcp/$H/2222" 2>/dev/null; then     echo "$H" | tee -a "$OUT"
+4f4e4f5a-d6c3-4609-a321-e9a486dbd4b5;7;eout 1;-1;bash -lc "exec 3<>/dev/tcp/$H/2222; head -n1 <&3; exec 3>&- 2>/dev/null" 2>/dev/null       | sed "s/^/$H /" | tee -a "$BANS" >/dev/null
+4f4e4f5a-d6c3-4609-a321-e9a486dbd4b5;7;mand -v;-1;ssh-keyscan >/dev/null && ssh-keyscan -T 1 -p 2222 "$H" 2>/dev/null | tee -a "$KEYS" >/dev/null
+4f4e4f5a-d6c3-4609-a321-e9a486dbd4b5;7;(( (RANDOM%19;-1;+ 12) )); printf 'sleep %.1f\n' "0.$S" | bash;     sleep 1;   fi; done
+4f4e4f5a-d6c3-4609-a321-e9a486dbd4b5;7;2025-10-21 23:44:18;-1;echo; echo "[*] Bannières:"
+4f4e4f5a-d6c3-4609-a321-e9a486dbd4b5;7;2025-10-21 23:44:18;-1;column -t "$BANS" 2>/dev/null || cat "$BANS"
+4f4e4f5a-d6c3-4609-a321-e9a486dbd4b5;7;2025-10-21 23:44:18;-1;# Stat des bannières / hostkeys pour voir les clones (honeypots)
+4f4e4f5a-d6c3-4609-a321-e9a486dbd4b5;7;2025-10-21 23:44:18;-1;echo; echo "[*] Bannières uniques/communes:"
+4f4e4f5a-d6c3-4609-a321-e9a486dbd4b5;7;2025-10-21 23:44:18;-1;cut -d' ' -f2- "$BANS" | sort | uniq -c | sort -nr | sed -n '1,99p'
+4f4e4f5a-d6c3-4609-a321-e9a486dbd4b5;7;2025-10-21 23:44:18;-1;if [ -s "$KEYS" ]; then   echo; echo "[*] Hostkeys les plus fréquentes:";   cut -d' ' -f3- "$KEYS" | sort | uniq -c | sort -nr | sed -n '1,99p'; fi
+4f4e4f5a-d6c3-4609-a321-e9a486dbd4b5;7;2025-10-21 23:44:18;-1;# Sélection auto d'une IP dont la bannière est UNIQUE (meilleure candidate)
+4f4e4f5a-d6c3-4609-a321-e9a486dbd4b5;7;2025-10-21 23:44:18;-1;CAND=$(awk 'NR==FNR{c[$0]++;next} {ip=$1;$1="";s=substr($0,2); if(c[s]==1) print ip}' \
+4f4e4f5a-d6c3-4609-a321-e9a486dbd4b5;7;(cut -d';-1;' -f2- "$BANS" | sort) "$BANS" | head -n1)
+4f4e4f5a-d6c3-4609-a321-e9a486dbd4b5;7;2025-10-21 23:44:19;-1;echo "CANDIDATE=$CAND"

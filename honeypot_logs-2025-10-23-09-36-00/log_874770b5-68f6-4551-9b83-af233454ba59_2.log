@@ -1,0 +1,4 @@
+docker_id;generation;full_time;service;command
+874770b5-68f6-4551-9b83-af233454ba59;2;2025-10-15 15:49:17;-1;ssh -p 2222 ot-user@10.0.0.19
+874770b5-68f6-4551-9b83-af233454ba59;2;2025-10-15 15:50:08;4;cd /tmp
+874770b5-68f6-4551-9b83-af233454ba59;2;2025-10-15 16:04:23;4;./linpeas.sh -a > el-monstro.txt

@@ -1,0 +1,2 @@
+docker_id;generation;full_time;service;command
+7219a344-3670-453f-9b17-534aeaa78fd1;1;2025-10-17 18:10:06;7;rep -Ei "ForceCommand|AuthorizedKeysCommand|pam_exec|pam_tty_audit" /etc/ssh/sshd_config /etc/pam.d/* -n 2>/dev/null || true

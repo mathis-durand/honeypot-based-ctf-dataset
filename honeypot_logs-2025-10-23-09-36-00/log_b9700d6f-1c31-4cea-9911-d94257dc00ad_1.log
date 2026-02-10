@@ -1,0 +1,4 @@
+docker_id;generation;full_time;service;command
+b9700d6f-1c31-4cea-9911-d94257dc00ad;1;2025-10-15 22:10:34;-1;ls -la
+b9700d6f-1c31-4cea-9911-d94257dc00ad;1;2025-10-15 22:10:49;-1;sudo -l
+b9700d6f-1c31-4cea-9911-d94257dc00ad;1;2025-10-15 22:11:18;-1;ifconfig

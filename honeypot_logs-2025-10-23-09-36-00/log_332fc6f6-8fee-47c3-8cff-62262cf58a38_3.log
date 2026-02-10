@@ -1,0 +1,6 @@
+docker_id;generation;full_time;service;command
+332fc6f6-8fee-47c3-8cff-62262cf58a38;3;2025-10-19 16:13:10;-1;nmap 10.0.0.11-19
+332fc6f6-8fee-47c3-8cff-62262cf58a38;3;2025-10-19 16:13:35;6;cd /ymp
+332fc6f6-8fee-47c3-8cff-62262cf58a38;3;2025-10-19 16:13:39;6;cd /tmp
+332fc6f6-8fee-47c3-8cff-62262cf58a38;3;2025-10-19 16:13:41;6;cat > foo.py
+332fc6f6-8fee-47c3-8cff-62262cf58a38;3;2025-10-19 16:14:07;6;python3 foo.py -T 10.0.0.13 -p 2222

@@ -1,0 +1,6 @@
+docker_id;generation;full_time;service;command
+caa5c464-fd28-4afa-a85d-0f54f38c6d77;12;2025-10-17 15:24:12;-1;ssh -p 2222 ot-user@10.0.0.11
+caa5c464-fd28-4afa-a85d-0f54f38c6d77;12;2025-10-17 15:29:16;0;readelf -h /usr/bin/rootshell/myShell
+caa5c464-fd28-4afa-a85d-0f54f38c6d77;12;2025-10-17 15:29:27;0;strings -n 6 /usr/bin/rootshell/myShell
+caa5c464-fd28-4afa-a85d-0f54f38c6d77;12;2025-10-17 15:29:49;0;sudo -l
+caa5c464-fd28-4afa-a85d-0f54f38c6d77;12;2025-10-17 15:30:22;0;getcap /usr/bin/rootshell/myShell 2>/dev/null || echo "no capabilities"

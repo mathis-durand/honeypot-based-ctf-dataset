@@ -1,0 +1,5 @@
+docker_id;generation;full_time;service;command
+f388a304-2458-482f-a960-b81343765898;5;2025-10-16 18:20:12;-1;clear
+f388a304-2458-482f-a960-b81343765898;5;2025-10-16 18:21:21;-1;cat /home/nobody1/.ssh/authorized_keys || echo "cannot read"
+f388a304-2458-482f-a960-b81343765898;5;2025-10-16 18:21:29;-1;ls -la /home/nobody1
+f388a304-2458-482f-a960-b81343765898;5;2025-10-16 18:21:37;-1;ls -la /home/ubuntu 2>/dev/null || echo "no access to /home/ubuntu"

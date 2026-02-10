@@ -1,0 +1,8 @@
+docker_id;generation;full_time;service;command
+5e414a13-12cd-47d6-bab9-478fc318393b;14;2025-10-15 11:44:54;-1;nmap -p- --min-rate=1000 10.0.0.0/24
+5e414a13-12cd-47d6-bab9-478fc318393b;14;2025-10-15 11:47:34;-1;nmap -p 22,2222 -sV -Pn 10.0.0.0/24
+5e414a13-12cd-47d6-bab9-478fc318393b;14;2025-10-15 11:51:40;-1;# hostkeys 2222 pour 10.0.0.11..19
+5e414a13-12cd-47d6-bab9-478fc318393b;14;2025-10-15 11:51:40;-1;for ip in {11..19}; do   echo "=== 10.0.0.$ip:2222 ===";   ssh-keyscan -p 2222 10.0.0.$ip 2>/dev/null | ssh-keygen -lf - || echo "no key"; done
+5e414a13-12cd-47d6-bab9-478fc318393b;14;2025-10-15 11:52:07;-1;# hostkey pour 10.0.0.14:22 également
+5e414a13-12cd-47d6-bab9-478fc318393b;14;2025-10-15 11:52:07;-1;echo "=== 10.0.0.14:22 ==="
+5e414a13-12cd-47d6-bab9-478fc318393b;14;2025-10-15 11:52:07;-1;ssh-keyscan -p 22 10.0.0.14 2>/dev/null | ssh-keygen -lf - || echo "no key"

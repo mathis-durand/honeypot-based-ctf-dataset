@@ -1,0 +1,2 @@
+docker_id;generation;full_time;service;command
+78046441-82fe-45db-8128-bd801ae26780;5;2025-10-21 16:49:59;-1;rm -rf /app/lobby/alert.py

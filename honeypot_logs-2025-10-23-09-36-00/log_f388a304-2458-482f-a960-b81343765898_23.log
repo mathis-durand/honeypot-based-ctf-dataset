@@ -1,0 +1,4 @@
+docker_id;generation;full_time;service;command
+f388a304-2458-482f-a960-b81343765898;23;2025-10-16 18:53:12;-1;clear
+f388a304-2458-482f-a960-b81343765898;23;2025-10-16 18:53:13;-1;grep -R --color=never "f388a304" /var/log 2>/dev/null | sed -n '1,200p'
+f388a304-2458-482f-a960-b81343765898;23;2025-10-16 18:53:17;-1;grep -RIn --color=never -e "ssh-key-drone" -e "ssh-key-ctf" -e "app/lobby" /var /opt /etc 2>/dev/null | sed -n '1,200p'

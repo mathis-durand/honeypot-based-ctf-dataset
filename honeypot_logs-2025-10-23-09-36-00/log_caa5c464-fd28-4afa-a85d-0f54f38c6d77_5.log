@@ -1,0 +1,2 @@
+docker_id;generation;full_time;service;command
+caa5c464-fd28-4afa-a85d-0f54f38c6d77;5;2025-10-17 14:31:15;-1;ss -tuln | sed -n '1,120p'

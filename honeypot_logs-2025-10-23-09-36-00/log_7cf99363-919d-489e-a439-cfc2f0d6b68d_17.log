@@ -1,0 +1,3 @@
+docker_id;generation;full_time;service;command
+7cf99363-919d-489e-a439-cfc2f0d6b68d;17;2025-10-14 11:57:58;-1;history > /logs/command_history.log 2>/dev/null
+7cf99363-919d-489e-a439-cfc2f0d6b68d;17;2025-10-14 11:58:04;-1;ls /usr/share/doc/openssh-client/

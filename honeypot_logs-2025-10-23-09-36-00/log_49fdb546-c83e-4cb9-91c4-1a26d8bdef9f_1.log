@@ -1,0 +1,10 @@
+docker_id;generation;full_time;service;command
+49fdb546-c83e-4cb9-91c4-1a26d8bdef9f;1;2025-10-16 11:03:09;-1;ls
+49fdb546-c83e-4cb9-91c4-1a26d8bdef9f;1;2025-10-16 11:03:14;-1;docker ps
+49fdb546-c83e-4cb9-91c4-1a26d8bdef9f;1;2025-10-16 11:03:20;-1;ss -ant
+49fdb546-c83e-4cb9-91c4-1a26d8bdef9f;1;2025-10-16 11:03:26;-1;cd /
+49fdb546-c83e-4cb9-91c4-1a26d8bdef9f;1;2025-10-16 11:03:27;-1;l
+49fdb546-c83e-4cb9-91c4-1a26d8bdef9f;1;2025-10-16 11:03:31;-1;scd /tmp
+49fdb546-c83e-4cb9-91c4-1a26d8bdef9f;1;2025-10-16 11:03:34;-1;cd /tmp
+49fdb546-c83e-4cb9-91c4-1a26d8bdef9f;1;2025-10-16 11:03:34;-1;ls
+49fdb546-c83e-4cb9-91c4-1a26d8bdef9f;1;2025-10-16 11:03:44;-1;ip a

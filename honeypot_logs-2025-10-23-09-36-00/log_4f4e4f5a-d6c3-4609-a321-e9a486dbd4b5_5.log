@@ -1,0 +1,7 @@
+docker_id;generation;full_time;service;command
+4f4e4f5a-d6c3-4609-a321-e9a486dbd4b5;5;2025-10-21 23:35:29;-1;OUT=/tmp/ssh_hosts.txt
+4f4e4f5a-d6c3-4609-a321-e9a486dbd4b5;5;2025-10-21 23:35:29;-1;> "$OUT"
+4f4e4f5a-d6c3-4609-a321-e9a486dbd4b5;5;2025-10-21 23:35:29;-1;for i in $(seq 1 254); do   H="$NET_PREFIX.$i";   timeout 0.5 bash -c "echo > /dev/tcp/$H/22" 2>/dev/null && echo "$H" | tee -a "$OUT"; done
+4f4e4f5a-d6c3-4609-a321-e9a486dbd4b5;5;2025-10-21 23:35:31;-1;echo "[*] Hôtes avec 22 ouvert:"
+4f4e4f5a-d6c3-4609-a321-e9a486dbd4b5;5;2025-10-21 23:35:31;-1;cat "$OUT"
+4f4e4f5a-d6c3-4609-a321-e9a486dbd4b5;5;2025-10-21 23:35:50;-1;awk '/32 host/ {print ip} {ip=$NF}' /proc/net/fib_trie 2>/dev/null | grep -E '^(10|172\.16|192\.168)\.' | sort -u

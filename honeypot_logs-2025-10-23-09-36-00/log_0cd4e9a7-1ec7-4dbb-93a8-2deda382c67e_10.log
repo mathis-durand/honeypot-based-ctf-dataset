@@ -1,0 +1,2 @@
+docker_id;generation;full_time;service;command
+0cd4e9a7-1ec7-4dbb-93a8-2deda382c67e;10;2025-10-13 20:47:03;-1;/usr/bin/rootshell/myShell; whoami

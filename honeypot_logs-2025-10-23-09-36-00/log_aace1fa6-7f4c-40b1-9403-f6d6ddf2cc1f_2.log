@@ -1,0 +1,42 @@
+docker_id;generation;full_time;service;command
+aace1fa6-7f4c-40b1-9403-f6d6ddf2cc1f;2;2025-10-17 19:21:10;-1;ssh ot-user@10.0.0.1
+aace1fa6-7f4c-40b1-9403-f6d6ddf2cc1f;2;2025-10-17 19:21:13;-1;ssh ot-user@10.0.0.11
+aace1fa6-7f4c-40b1-9403-f6d6ddf2cc1f;2;2025-10-17 19:21:15;-1;ssh ot-user@10.0.0.12
+aace1fa6-7f4c-40b1-9403-f6d6ddf2cc1f;2;2025-10-17 19:21:16;-1;ssh ot-user@10.0.0.13
+aace1fa6-7f4c-40b1-9403-f6d6ddf2cc1f;2;2025-10-17 19:21:18;-1;ssh ot-user@10.0.0.14
+aace1fa6-7f4c-40b1-9403-f6d6ddf2cc1f;2;2025-10-17 19:21:21;-1;ssh ot-user@10.0.0.15
+aace1fa6-7f4c-40b1-9403-f6d6ddf2cc1f;2;2025-10-17 19:21:43;8;id
+aace1fa6-7f4c-40b1-9403-f6d6ddf2cc1f;2;2025-10-17 19:22:26;8;userdel skywalker
+aace1fa6-7f4c-40b1-9403-f6d6ddf2cc1f;2;2025-10-17 19:22:39;8;sudo -l
+aace1fa6-7f4c-40b1-9403-f6d6ddf2cc1f;2;2025-10-17 19:23:25;8;hostname
+aace1fa6-7f4c-40b1-9403-f6d6ddf2cc1f;2;2025-10-17 19:23:35;8;ls /
+aace1fa6-7f4c-40b1-9403-f6d6ddf2cc1f;2;2025-10-17 19:23:38;8;cd /tmp
+aace1fa6-7f4c-40b1-9403-f6d6ddf2cc1f;2;2025-10-17 19:23:39;8;ls
+aace1fa6-7f4c-40b1-9403-f6d6ddf2cc1f;2;2025-10-17 19:23:48;8;ls -la /
+aace1fa6-7f4c-40b1-9403-f6d6ddf2cc1f;2;2025-10-17 19:23:55;8;env
+aace1fa6-7f4c-40b1-9403-f6d6ddf2cc1f;2;2025-10-17 19:24:13;8;echo $PATH
+aace1fa6-7f4c-40b1-9403-f6d6ddf2cc1f;2;2025-10-17 19:24:18;8;cd /opt
+aace1fa6-7f4c-40b1-9403-f6d6ddf2cc1f;2;2025-10-17 19:24:19;8;ls
+aace1fa6-7f4c-40b1-9403-f6d6ddf2cc1f;2;2025-10-17 19:24:22;8;cd /app
+aace1fa6-7f4c-40b1-9403-f6d6ddf2cc1f;2;2025-10-17 19:24:24;8;ls
+aace1fa6-7f4c-40b1-9403-f6d6ddf2cc1f;2;2025-10-17 19:24:30;8;cd drones
+aace1fa6-7f4c-40b1-9403-f6d6ddf2cc1f;2;2025-10-17 19:24:31;8;ls
+aace1fa6-7f4c-40b1-9403-f6d6ddf2cc1f;2;2025-10-17 19:24:36;8;cat retrieve-pic.sh 
+aace1fa6-7f4c-40b1-9403-f6d6ddf2cc1f;2;2025-10-17 19:24:39;8;ls -la
+aace1fa6-7f4c-40b1-9403-f6d6ddf2cc1f;2;2025-10-17 19:24:51;8;cd ..
+aace1fa6-7f4c-40b1-9403-f6d6ddf2cc1f;2;2025-10-17 19:24:53;8;ls
+aace1fa6-7f4c-40b1-9403-f6d6ddf2cc1f;2;2025-10-17 19:24:57;8;ls -la
+aace1fa6-7f4c-40b1-9403-f6d6ddf2cc1f;2;2025-10-17 19:25:03;8;cd ssh
+aace1fa6-7f4c-40b1-9403-f6d6ddf2cc1f;2;2025-10-17 19:25:05;8;ls
+aace1fa6-7f4c-40b1-9403-f6d6ddf2cc1f;2;2025-10-17 19:25:14;8;ls -la
+aace1fa6-7f4c-40b1-9403-f6d6ddf2cc1f;2;2025-10-17 19:25:28;8;cd banners/
+aace1fa6-7f4c-40b1-9403-f6d6ddf2cc1f;2;2025-10-17 19:25:29;8;ls
+aace1fa6-7f4c-40b1-9403-f6d6ddf2cc1f;2;2025-10-17 19:25:34;8;ls -la
+aace1fa6-7f4c-40b1-9403-f6d6ddf2cc1f;2;2025-10-17 19:25:42;8;./ssh
+aace1fa6-7f4c-40b1-9403-f6d6ddf2cc1f;2;2025-10-17 19:25:45;8;cd /
+aace1fa6-7f4c-40b1-9403-f6d6ddf2cc1f;2;2025-10-17 19:25:46;8;ls
+aace1fa6-7f4c-40b1-9403-f6d6ddf2cc1f;2;2025-10-17 19:25:51;8;cd /var/wwww
+aace1fa6-7f4c-40b1-9403-f6d6ddf2cc1f;2;2025-10-17 19:25:54;8;cd /var/www
+aace1fa6-7f4c-40b1-9403-f6d6ddf2cc1f;2;2025-10-17 19:26:09;8;cd ~
+aace1fa6-7f4c-40b1-9403-f6d6ddf2cc1f;2;2025-10-17 19:26:15;8;ls -la
+aace1fa6-7f4c-40b1-9403-f6d6ddf2cc1f;2;2025-10-17 19:26:25;8;history

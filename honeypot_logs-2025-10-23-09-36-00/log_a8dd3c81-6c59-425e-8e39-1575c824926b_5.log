@@ -1,0 +1,11 @@
+docker_id;generation;full_time;service;command
+a8dd3c81-6c59-425e-8e39-1575c824926b;5;2025-10-19 22:43:09;-1;host 10.0.0.11
+a8dd3c81-6c59-425e-8e39-1575c824926b;5;2025-10-19 22:43:15;-1;cat /etc/hosts
+a8dd3c81-6c59-425e-8e39-1575c824926b;5;2025-10-19 22:43:25;-1;# Regarder dans .ssh s'il y a des clés ou config
+a8dd3c81-6c59-425e-8e39-1575c824926b;5;2025-10-19 22:43:25;-1;ls -la ~/.ssh/
+a8dd3c81-6c59-425e-8e39-1575c824926b;5;2025-10-19 22:43:25;-1;cat ~/.ssh/config 2>/dev/null
+a8dd3c81-6c59-425e-8e39-1575c824926b;5;2025-10-19 22:43:25;-1;cat ~/.ssh/known_hosts 2>/dev/null
+a8dd3c81-6c59-425e-8e39-1575c824926b;5;2025-10-19 22:43:25;-1;# Chercher des scripts ou notes
+a8dd3c81-6c59-425e-8e39-1575c824926b;5;2025-10-19 22:43:25;-1;find /home -type f -name "*.txt" 2>/dev/null
+a8dd3c81-6c59-425e-8e39-1575c824926b;5;2025-10-19 22:43:25;-1;find /home -type f -name "*.sh" 2>/dev/null
+a8dd3c81-6c59-425e-8e39-1575c824926b;5;2025-10-19 22:43:26;-1;cat /etc/motd

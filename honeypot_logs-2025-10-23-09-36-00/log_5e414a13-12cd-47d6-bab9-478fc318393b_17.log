@@ -1,0 +1,4 @@
+docker_id;generation;full_time;service;command
+5e414a13-12cd-47d6-bab9-478fc318393b;17;2025-10-15 12:01:08;-1;nmap 10.0.0.11
+5e414a13-12cd-47d6-bab9-478fc318393b;17;2025-10-15 12:01:10;-1;nmap 10.0.0.12
+5e414a13-12cd-47d6-bab9-478fc318393b;17;2025-10-15 12:01:44;8;ls -ld /usr/bin/rootshell /usr/bin/rootshell/myShell

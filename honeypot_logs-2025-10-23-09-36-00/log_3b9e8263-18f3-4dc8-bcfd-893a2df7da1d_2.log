@@ -1,0 +1,5 @@
+docker_id;generation;full_time;service;command
+3b9e8263-18f3-4dc8-bcfd-893a2df7da1d;2;2025-10-18 22:29:12;-1;ls
+3b9e8263-18f3-4dc8-bcfd-893a2df7da1d;2;2025-10-18 22:29:16;-1;ls -la
+3b9e8263-18f3-4dc8-bcfd-893a2df7da1d;2;2025-10-18 22:31:50;-1;nano discover_ssh.sh
+3b9e8263-18f3-4dc8-bcfd-893a2df7da1d;2;2025-10-18 22:31:58;-1;apt install nano

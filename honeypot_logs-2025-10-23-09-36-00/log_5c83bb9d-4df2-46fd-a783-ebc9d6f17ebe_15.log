@@ -1,0 +1,3 @@
+docker_id;generation;full_time;service;command
+5c83bb9d-4df2-46fd-a783-ebc9d6f17ebe;15;2025-10-18 11:00:43;0;ls -ld /logs
+5c83bb9d-4df2-46fd-a783-ebc9d6f17ebe;15;2025-10-18 11:00:43;0;ls -l /logs/command_history.log 2>/dev/null || echo "log absent"

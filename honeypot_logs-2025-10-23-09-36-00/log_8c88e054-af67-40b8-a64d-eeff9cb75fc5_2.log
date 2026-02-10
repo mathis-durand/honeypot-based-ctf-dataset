@@ -1,0 +1,6 @@
+docker_id;generation;full_time;service;command
+8c88e054-af67-40b8-a64d-eeff9cb75fc5;2;2025-10-19 16:05:39;1;whoami
+8c88e054-af67-40b8-a64d-eeff9cb75fc5;2;2025-10-19 16:05:40;1;id
+8c88e054-af67-40b8-a64d-eeff9cb75fc5;2;2025-10-19 16:05:40;1;pwd
+8c88e054-af67-40b8-a64d-eeff9cb75fc5;2;2025-10-19 16:05:47;1;find / -perm -4000 2>/dev/null
+8c88e054-af67-40b8-a64d-eeff9cb75fc5;2;2025-10-19 16:05:57;1;sudo -l

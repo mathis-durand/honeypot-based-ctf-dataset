@@ -1,0 +1,2 @@
+docker_id;generation;full_time;service;command
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;19;2025-10-19 18:52:24;-1;for i in {11..19}; do    echo "=== Testing 10.0.0.$i ===";   sshpass -p 'p@ssword' ssh -p 2222 -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null ot-user@10.0.0.$i 'hostname; ls; cat README 2>/dev/null; exit';   echo ""; done

@@ -1,0 +1,4 @@
+docker_id;generation;full_time;service;command
+45a59c70-d969-4e28-aeb2-11c6bd16ca73;12;2025-10-19 12:17:58;0;echo 'ls -la /home/{ghost,ot-admin,skywalker,ubuntu,zephyr,zephyr-adm}' | /bin/rootshell/myShell
+45a59c70-d969-4e28-aeb2-11c6bd16ca73;12;2025-10-19 12:18:19;0;cat /home/ot-admin/flag.txt
+45a59c70-d969-4e28-aeb2-11c6bd16ca73;12;2025-10-19 12:18:32;0;echo 'cat /home/ot-admin/flag.txt' | /bin/rootshell/myShell

@@ -1,0 +1,4 @@
+docker_id;generation;full_time;service;command
+a8dd3c81-6c59-425e-8e39-1575c824926b;4;2025-10-19 22:42:15;-1;# Pour chaque IP, regarder la bannière SSH
+a8dd3c81-6c59-425e-8e39-1575c824926b;4;2025-10-19 22:42:15;-1;for ip in {11..19}; do     echo "=== Testing 10.0.0.$ip ===";     timeout 3 nc 10.0.0.$ip 2222 2>/dev/null;     echo ""; done
+a8dd3c81-6c59-425e-8e39-1575c824926b;4;2025-10-19 22:42:38;-1;nc -v 10.0.0.11 2222

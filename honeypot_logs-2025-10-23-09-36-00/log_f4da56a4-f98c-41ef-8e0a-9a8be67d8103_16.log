@@ -1,0 +1,2 @@
+docker_id;generation;full_time;service;command
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;16;2025-10-19 18:42:22;-1;for i in {1..20}; do echo "Testing 10.0.0.$i"; timeout 2 nc -zv 10.0.0.$i 22 2>&1 | grep succeeded; timeout 2 nc -zv 10.0.0.$i 2222 2>&1 | grep succeeded; done

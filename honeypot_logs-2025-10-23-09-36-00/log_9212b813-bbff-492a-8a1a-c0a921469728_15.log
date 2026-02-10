@@ -1,0 +1,2 @@
+docker_id;generation;full_time;service;command
+9212b813-bbff-492a-8a1a-c0a921469728;15;2025-10-16 18:01:32;-1;ssh -p 2222 -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null     ot-user@10.0.0.18 'id -nG'

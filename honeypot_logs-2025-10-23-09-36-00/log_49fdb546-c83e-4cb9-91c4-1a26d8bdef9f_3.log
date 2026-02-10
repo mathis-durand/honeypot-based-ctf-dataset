@@ -1,0 +1,6 @@
+docker_id;generation;full_time;service;command
+49fdb546-c83e-4cb9-91c4-1a26d8bdef9f;3;2025-10-16 11:09:58;-1;cd /etc/
+49fdb546-c83e-4cb9-91c4-1a26d8bdef9f;3;2025-10-16 11:09:59;-1;ls
+49fdb546-c83e-4cb9-91c4-1a26d8bdef9f;3;2025-10-16 11:10:08;-1;cd networks 
+49fdb546-c83e-4cb9-91c4-1a26d8bdef9f;3;2025-10-16 11:10:11;-1;cd network
+49fdb546-c83e-4cb9-91c4-1a26d8bdef9f;3;2025-10-16 11:10:15;-1;uname -a

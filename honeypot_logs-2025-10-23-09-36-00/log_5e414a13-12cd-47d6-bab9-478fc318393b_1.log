@@ -1,0 +1,4 @@
+docker_id;generation;full_time;service;command
+5e414a13-12cd-47d6-bab9-478fc318393b;1;2025-10-15 11:10:51;-1;id
+5e414a13-12cd-47d6-bab9-478fc318393b;1;2025-10-15 11:11:05;-1;hostname
+5e414a13-12cd-47d6-bab9-478fc318393b;1;2025-10-15 11:12:47;-1;for i in {11..19}; do   echo "--- Vérification de 10.0.0.$i ---";   nc -w 2 10.0.0.$i 2222;   echo "-----------------------------------"; done

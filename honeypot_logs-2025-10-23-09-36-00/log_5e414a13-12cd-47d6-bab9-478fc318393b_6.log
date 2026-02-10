@@ -1,0 +1,4 @@
+docker_id;generation;full_time;service;command
+5e414a13-12cd-47d6-bab9-478fc318393b;6;2025-10-15 11:29:24;0;echo "ls -la  /root" | /usr/bin/rootshell/myShell
+5e414a13-12cd-47d6-bab9-478fc318393b;6;2025-10-15 11:29:40;0;echo "ls -la  /root/" | /usr/bin/rootshell/myShell
+5e414a13-12cd-47d6-bab9-478fc318393b;6;2025-10-15 11:30:20;0;echo "cat /logs/command_history.log" | /usr/bin/rootshell/myShell

@@ -1,0 +1,2 @@
+docker_id;generation;full_time;service;command
+60cc60a0-4cb8-4a41-8412-383c1a657e19;1;2025-10-20 12:03:06;-1;nmap -p 2222 --script=ssh-run --script-args="ssh-run.cmd=id, ssh-run.username=ot-user, ssh-run.password=p@ssword" 10.0.0.11-19

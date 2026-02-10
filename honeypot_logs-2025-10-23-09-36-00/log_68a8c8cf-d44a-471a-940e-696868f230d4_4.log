@@ -1,0 +1,2 @@
+docker_id;generation;full_time;service;command
+68a8c8cf-d44a-471a-940e-696868f230d4;4;2025-10-21 11:51:12;-1;echo dG90bwo= | base64 --decode

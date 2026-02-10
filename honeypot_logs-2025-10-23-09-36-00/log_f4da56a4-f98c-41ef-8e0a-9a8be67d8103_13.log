@@ -1,0 +1,8 @@
+docker_id;generation;full_time;service;command
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;13;2025-10-19 18:33:28;-1;ssh -p 2222 ot-user@10.0.0.11 -P "p@ssword"
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;13;2025-10-19 18:34:32;2;cat /app/ssh/update-date.py
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;13;2025-10-19 18:34:36;2;cat /app/ssh/pam.d_sshd
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;13;2025-10-19 18:34:39;2;cat /app/ssh/banners/ssh
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;13;2025-10-19 18:34:45;2;ls -la /proc/109/fd/
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;13;2025-10-19 18:34:50;2;ls -la /proc/114/fd/
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;13;2025-10-19 18:34:54;2;cat /etc/crontab

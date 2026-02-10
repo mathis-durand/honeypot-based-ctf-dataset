@@ -1,0 +1,4 @@
+docker_id;generation;full_time;service;command
+f388a304-2458-482f-a960-b81343765898;26;2025-10-16 18:57:57;-1;clear
+f388a304-2458-482f-a960-b81343765898;26;2025-10-16 18:57:58;-1;tail -n 200 /var/log/syslog 2>/dev/null || echo "syslog non lisible"
+f388a304-2458-482f-a960-b81343765898;26;2025-10-16 18:58:04;-1;tail -n 200 /var/log/auth.log 2>/dev/null || echo "auth.log non lisible"

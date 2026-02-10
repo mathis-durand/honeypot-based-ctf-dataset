@@ -1,0 +1,4 @@
+docker_id;generation;full_time;service;command
+d20abb76-431e-48cd-8db1-f5e717d8da56;3;2025-10-20 22:54:48;-1;exit
+d20abb76-431e-48cd-8db1-f5e717d8da56;3;2025-10-20 22:55:32;-1;sshpass
+d20abb76-431e-48cd-8db1-f5e717d8da56;3;2025-10-20 22:55:56;3;myshell *auto-alert*

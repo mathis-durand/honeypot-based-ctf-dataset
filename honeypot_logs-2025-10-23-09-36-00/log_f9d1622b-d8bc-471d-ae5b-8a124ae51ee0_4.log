@@ -1,0 +1,5 @@
+docker_id;generation;full_time;service;command
+f9d1622b-d8bc-471d-ae5b-8a124ae51ee0;4;2025-10-15 11:05:59;2;ls /home
+f9d1622b-d8bc-471d-ae5b-8a124ae51ee0;4;2025-10-15 11:08:04;2;id
+f9d1622b-d8bc-471d-ae5b-8a124ae51ee0;4;2025-10-15 11:08:06;2;whoami
+f9d1622b-d8bc-471d-ae5b-8a124ae51ee0;4;2025-10-15 11:08:11;2;find / -name "flag.txt" 2>/dev/null

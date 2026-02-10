@@ -1,0 +1,24 @@
+docker_id;generation;full_time;service;command
+aace1fa6-7f4c-40b1-9403-f6d6ddf2cc1f;7;2025-10-17 19:33:53;-1;cd /
+aace1fa6-7f4c-40b1-9403-f6d6ddf2cc1f;7;2025-10-17 19:33:54;-1;ls
+aace1fa6-7f4c-40b1-9403-f6d6ddf2cc1f;7;2025-10-17 19:33:57;-1;cd logs
+aace1fa6-7f4c-40b1-9403-f6d6ddf2cc1f;7;2025-10-17 19:33:59;-1;ms
+aace1fa6-7f4c-40b1-9403-f6d6ddf2cc1f;7;2025-10-17 19:33:59;-1;ls
+aace1fa6-7f4c-40b1-9403-f6d6ddf2cc1f;7;2025-10-17 19:34:03;-1;cd /app
+aace1fa6-7f4c-40b1-9403-f6d6ddf2cc1f;7;2025-10-17 19:34:04;-1;ls
+aace1fa6-7f4c-40b1-9403-f6d6ddf2cc1f;7;2025-10-17 19:34:10;-1;cat session-id 
+aace1fa6-7f4c-40b1-9403-f6d6ddf2cc1f;7;2025-10-17 19:34:14;-1;cd lobby/
+aace1fa6-7f4c-40b1-9403-f6d6ddf2cc1f;7;2025-10-17 19:34:15;-1;ls
+aace1fa6-7f4c-40b1-9403-f6d6ddf2cc1f;7;2025-10-17 19:34:21;-1;ls -l
+aace1fa6-7f4c-40b1-9403-f6d6ddf2cc1f;7;2025-10-17 19:34:35;-1;cd /opt
+aace1fa6-7f4c-40b1-9403-f6d6ddf2cc1f;7;2025-10-17 19:34:36;-1;ls
+aace1fa6-7f4c-40b1-9403-f6d6ddf2cc1f;7;2025-10-17 19:35:03;-1;cd /etc/
+aace1fa6-7f4c-40b1-9403-f6d6ddf2cc1f;7;2025-10-17 19:35:04;-1;ls
+aace1fa6-7f4c-40b1-9403-f6d6ddf2cc1f;7;2025-10-17 19:35:08;-1;cd ssh/
+aace1fa6-7f4c-40b1-9403-f6d6ddf2cc1f;7;2025-10-17 19:35:11;-1;ls
+aace1fa6-7f4c-40b1-9403-f6d6ddf2cc1f;7;2025-10-17 19:35:30;-1;cat sshd_config.d/
+aace1fa6-7f4c-40b1-9403-f6d6ddf2cc1f;7;2025-10-17 19:36:15;-1;cd sshd_config
+aace1fa6-7f4c-40b1-9403-f6d6ddf2cc1f;7;2025-10-17 19:36:20;-1;ls
+aace1fa6-7f4c-40b1-9403-f6d6ddf2cc1f;7;2025-10-17 19:36:31;-1;cd ..
+aace1fa6-7f4c-40b1-9403-f6d6ddf2cc1f;7;2025-10-17 19:36:31;-1;ls
+aace1fa6-7f4c-40b1-9403-f6d6ddf2cc1f;7;2025-10-17 19:36:48;-1;cat passwd-

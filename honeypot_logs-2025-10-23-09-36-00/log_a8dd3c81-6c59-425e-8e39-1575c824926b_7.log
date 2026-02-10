@@ -1,0 +1,9 @@
+docker_id;generation;full_time;service;command
+a8dd3c81-6c59-425e-8e39-1575c824926b;7;2025-10-19 22:47:09;4;hostname
+a8dd3c81-6c59-425e-8e39-1575c824926b;7;2025-10-19 22:47:19;4;ls -al
+a8dd3c81-6c59-425e-8e39-1575c824926b;7;2025-10-19 22:47:22;4;cat README 
+a8dd3c81-6c59-425e-8e39-1575c824926b;7;2025-10-19 22:47:31;4;ls /
+a8dd3c81-6c59-425e-8e39-1575c824926b;7;2025-10-19 22:48:11;4;ext
+a8dd3c81-6c59-425e-8e39-1575c824926b;7;2025-10-19 22:48:13;4;ssh -p 2222 -o StrictHostKeyChecking=no ot-user@10.0.0.12
+a8dd3c81-6c59-425e-8e39-1575c824926b;7;2025-10-19 22:48:50;4;# Script pour trouver les bonnes machines rapidement
+a8dd3c81-6c59-425e-8e39-1575c824926b;7;2025-10-19 22:48:50;4;for ip in {12..19}; do     echo "========== 10.0.0.$ip ==========";     timeout 10 sshpass -p 'p@ssword' ssh -p 2222 -o StrictHostKeyChecking=no -o ConnectTimeout=3 ot-user@10.0.0.$ip "hostname 2>&1" 2>&1 | head -2;     echo ""; done

@@ -1,0 +1,23 @@
+docker_id;generation;full_time;service;command
+3672aacb-db7c-4ca5-91eb-3ed8ab2c1b2a;1;2025-10-15 09:59:20;-1;ls
+3672aacb-db7c-4ca5-91eb-3ed8ab2c1b2a;1;2025-10-15 09:59:22;-1;ls -la
+3672aacb-db7c-4ca5-91eb-3ed8ab2c1b2a;1;2025-10-15 09:59:24;-1;pwd
+3672aacb-db7c-4ca5-91eb-3ed8ab2c1b2a;1;2025-10-15 09:59:33;-1;ls .ssh/
+3672aacb-db7c-4ca5-91eb-3ed8ab2c1b2a;1;2025-10-15 09:59:38;-1;cat .ssh/authorized_keys 
+3672aacb-db7c-4ca5-91eb-3ed8ab2c1b2a;1;2025-10-15 09:59:45;-1;cd ../
+3672aacb-db7c-4ca5-91eb-3ed8ab2c1b2a;1;2025-10-15 09:59:46;-1;ls
+3672aacb-db7c-4ca5-91eb-3ed8ab2c1b2a;1;2025-10-15 09:59:48;-1;cd ubuntu/
+3672aacb-db7c-4ca5-91eb-3ed8ab2c1b2a;1;2025-10-15 09:59:55;-1;sudo su
+3672aacb-db7c-4ca5-91eb-3ed8ab2c1b2a;1;2025-10-15 10:00:03;-1;cd ../
+3672aacb-db7c-4ca5-91eb-3ed8ab2c1b2a;1;2025-10-15 10:00:04;-1;ls
+3672aacb-db7c-4ca5-91eb-3ed8ab2c1b2a;1;2025-10-15 10:00:16;-1;lqs
+3672aacb-db7c-4ca5-91eb-3ed8ab2c1b2a;1;2025-10-15 10:00:18;-1;ls
+3672aacb-db7c-4ca5-91eb-3ed8ab2c1b2a;1;2025-10-15 10:00:29;-1;cd home/
+3672aacb-db7c-4ca5-91eb-3ed8ab2c1b2a;1;2025-10-15 10:00:30;-1;ls
+3672aacb-db7c-4ca5-91eb-3ed8ab2c1b2a;1;2025-10-15 10:00:31;-1;ls -la
+3672aacb-db7c-4ca5-91eb-3ed8ab2c1b2a;1;2025-10-15 10:00:33;-1;cd nobody1/
+3672aacb-db7c-4ca5-91eb-3ed8ab2c1b2a;1;2025-10-15 10:02:43;-1;whoami
+3672aacb-db7c-4ca5-91eb-3ed8ab2c1b2a;1;2025-10-15 10:02:46;-1;id
+3672aacb-db7c-4ca5-91eb-3ed8ab2c1b2a;1;2025-10-15 10:02:53;-1;hostname
+3672aacb-db7c-4ca5-91eb-3ed8ab2c1b2a;1;2025-10-15 10:02:57;-1;uptime
+3672aacb-db7c-4ca5-91eb-3ed8ab2c1b2a;1;2025-10-15 10:03:03;-1;uname -a

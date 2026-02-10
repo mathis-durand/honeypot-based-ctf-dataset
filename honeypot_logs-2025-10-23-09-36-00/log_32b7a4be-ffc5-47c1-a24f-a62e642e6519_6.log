@@ -1,0 +1,14 @@
+docker_id;generation;full_time;service;command
+32b7a4be-ffc5-47c1-a24f-a62e642e6519;6;2025-10-14 08:54:50;-1;ssh ot-user@10.0.0.11
+32b7a4be-ffc5-47c1-a24f-a62e642e6519;6;2025-10-14 08:54:51;-1;ssh ot-user@10.0.0.12
+32b7a4be-ffc5-47c1-a24f-a62e642e6519;6;2025-10-14 08:54:53;-1;ssh ot-user@10.0.0.13
+32b7a4be-ffc5-47c1-a24f-a62e642e6519;6;2025-10-14 08:54:54;-1;ssh ot-user@10.0.0.14
+32b7a4be-ffc5-47c1-a24f-a62e642e6519;6;2025-10-14 08:54:56;-1;ssh ot-user@10.0.0.15
+32b7a4be-ffc5-47c1-a24f-a62e642e6519;6;2025-10-14 08:54:57;-1;ssh ot-user@10.0.0.16
+32b7a4be-ffc5-47c1-a24f-a62e642e6519;6;2025-10-14 08:55:06;-1;ssh ot-user@10.0.0.17
+32b7a4be-ffc5-47c1-a24f-a62e642e6519;6;2025-10-14 08:55:18;-1;ssh ot-user@10.0.0.18
+32b7a4be-ffc5-47c1-a24f-a62e642e6519;6;2025-10-14 08:55:29;8;ls
+32b7a4be-ffc5-47c1-a24f-a62e642e6519;6;2025-10-14 08:55:47;8;cat /proc/ver*
+32b7a4be-ffc5-47c1-a24f-a62e642e6519;6;2025-10-14 08:56:56;8;dme*
+32b7a4be-ffc5-47c1-a24f-a62e642e6519;6;2025-10-14 08:56:59;8;dmesg
+32b7a4be-ffc5-47c1-a24f-a62e642e6519;6;2025-10-14 08:57:21;8;which nmap aws nc ncat netcat nc.traditional wget curl ping gcc g++ make gdb base64 socat python python2 python3 python2.7 python2.6 python3.6 python3.7 perl php ruby xterm doas sudo fetch docker lxc ctr runc rkt kubectl 2>/dev/null

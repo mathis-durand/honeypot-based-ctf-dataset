@@ -1,0 +1,4 @@
+docker_id;generation;full_time;service;command
+197a90fa-af13-4eb0-b151-5cae396b2fc3;1;2025-10-13 16:08:44;-1;nmap -p 2222 10.0.0.11-19
+197a90fa-af13-4eb0-b151-5cae396b2fc3;1;2025-10-13 16:09:00;-1;for i in {11..19}; do echo "=== 10.0.0.$i ==="; timeout 2 ssh -v -p 2222 ot-user@10.0.0.$i 2>&1 | grep -i "remote version"; done
+197a90fa-af13-4eb0-b151-5cae396b2fc3;1;2025-10-13 16:09:35;-1;for i in {11..19}; do echo "=== 10.0.0.$i ==="; timeout 2 bash -c "echo '' | nc -w 1 10.0.0.$i 2222" 2>/dev/null || echo "timeout/no response"; done

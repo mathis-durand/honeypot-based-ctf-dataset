@@ -1,0 +1,3 @@
+docker_id;generation;full_time;service;command
+f388a304-2458-482f-a960-b81343765898;6;2025-10-16 18:22:07;-1;clear
+f388a304-2458-482f-a960-b81343765898;6;2025-10-16 18:23:21;-1;sudo find / -type f -name "known_hosts" 2>/dev/null | grep ssh

@@ -1,0 +1,8 @@
+docker_id;generation;full_time;service;command
+0dc7788f-a584-4059-9ee2-ebdcafc66454;2;2025-10-21 23:02:00;-1;id
+0dc7788f-a584-4059-9ee2-ebdcafc66454;2;2025-10-21 23:02:05;-1;pwd
+0dc7788f-a584-4059-9ee2-ebdcafc66454;2;2025-10-21 23:02:08;-1;ll
+0dc7788f-a584-4059-9ee2-ebdcafc66454;2;2025-10-21 23:02:14;-1;cat .profile 
+0dc7788f-a584-4059-9ee2-ebdcafc66454;2;2025-10-21 23:02:26;-1;ll .ssh/
+0dc7788f-a584-4059-9ee2-ebdcafc66454;2;2025-10-21 23:02:33;-1;cat .ssh/authorized_keys 
+0dc7788f-a584-4059-9ee2-ebdcafc66454;2;2025-10-21 23:13:05;-1;umask 077

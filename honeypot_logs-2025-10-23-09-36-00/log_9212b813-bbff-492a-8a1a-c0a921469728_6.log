@@ -1,0 +1,2 @@
+docker_id;generation;full_time;service;command
+9212b813-bbff-492a-8a1a-c0a921469728;6;2025-10-16 17:52:42;-1;for i in $(seq 11 19); do   ip="10.0.0.$i";   echo "=== $ip ===";   ssh -p 2222     -o PreferredAuthentications=none     -o PubkeyAuthentication=no     -o PasswordAuthentication=no     -o KbdInteractiveAuthentication=no     -o StrictHostKeyChecking=no     -o UserKnownHostsFile=/dev/null     -vv ot-user@"$ip" 2>&1 | awk '/^SSH-2.0/ {print}';   sleep $(( (RANDOM % 3) + 3 )); done

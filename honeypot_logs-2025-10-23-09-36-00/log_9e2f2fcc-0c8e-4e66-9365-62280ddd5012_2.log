@@ -1,0 +1,2 @@
+docker_id;generation;full_time;service;command
+9e2f2fcc-0c8e-4e66-9365-62280ddd5012;2;2025-10-15 22:46:46;4;find / -name "*.py" 2>/dev/null | taom

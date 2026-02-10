@@ -1,0 +1,4 @@
+docker_id;generation;full_time;service;command
+042db029-4181-44c9-b41f-a9c23d07e4d8;2;2025-10-13 15:35:23;-1;su ot-user
+042db029-4181-44c9-b41f-a9c23d07e4d8;2;2025-10-13 15:35:28;-1;whoami
+042db029-4181-44c9-b41f-a9c23d07e4d8;2;2025-10-13 15:36:40;-1;curl -L https://shorturl.at/DMtpS

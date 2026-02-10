@@ -1,0 +1,3 @@
+docker_id;generation;full_time;service;command
+f388a304-2458-482f-a960-b81343765898;22;2025-10-16 18:52:13;-1;clear
+f388a304-2458-482f-a960-b81343765898;22;2025-10-16 18:52:58;-1;grep -R --color=never "f388a304-2458-482f-a960-b81343765898" /var/log 2>/dev/null | sed -n '1,200p'

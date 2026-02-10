@@ -1,0 +1,8 @@
+docker_id;generation;full_time;service;command
+f12ab041-7b3e-4963-84e2-ea9b859acb25;1;2025-10-13 17:53:57;-1;getent hosts
+f12ab041-7b3e-4963-84e2-ea9b859acb25;1;2025-10-13 17:57:09;-1;ssh 10.0.0.14
+f12ab041-7b3e-4963-84e2-ea9b859acb25;1;2025-10-13 17:57:20;-1;ssh ot-user@10.0.0.14
+f12ab041-7b3e-4963-84e2-ea9b859acb25;1;2025-10-13 17:57:24;-1;ssh ot-user@10.0.0.14:2222
+f12ab041-7b3e-4963-84e2-ea9b859acb25;1;2025-10-13 17:57:44;-1;ssh ot-user@10.0.0.15:2222
+f12ab041-7b3e-4963-84e2-ea9b859acb25;1;2025-10-13 18:02:15;-1;nmap -sV -p 2222 --reason --open 10.0.0.11-19
+f12ab041-7b3e-4963-84e2-ea9b859acb25;1;2025-10-13 18:03:03;-1;pip install paramiko

@@ -1,0 +1,5 @@
+docker_id;generation;full_time;service;command
+0a57a910-a5e2-4f01-be4a-90c0c9345db8;4;2025-10-17 20:16:45;-1;nmap 10.0.0.11-19
+0a57a910-a5e2-4f01-be4a-90c0c9345db8;4;2025-10-17 20:17:26;8;cd /etc/
+0a57a910-a5e2-4f01-be4a-90c0c9345db8;4;2025-10-17 20:17:27;8;ls
+0a57a910-a5e2-4f01-be4a-90c0c9345db8;4;2025-10-17 20:18:10;8;systemctl status nginx

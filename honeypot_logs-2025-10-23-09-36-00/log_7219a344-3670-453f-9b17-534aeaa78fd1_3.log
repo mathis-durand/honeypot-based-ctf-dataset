@@ -1,0 +1,5 @@
+docker_id;generation;full_time;service;command
+7219a344-3670-453f-9b17-534aeaa78fd1;3;2025-10-17 18:20:14;-1;nmap
+7219a344-3670-453f-9b17-534aeaa78fd1;3;2025-10-17 18:23:11;-1;# exemple pour 10.0.0.12
+7219a344-3670-453f-9b17-534aeaa78fd1;3;2025-10-17 18:23:11;-1;nmap -p 2222   -sT   -Pn   --version-light   --max-retries 0   --host-timeout 30s   --scan-delay 10s   --open   10.0.0.12
+7219a344-3670-453f-9b17-534aeaa78fd1;3;2025-10-17 18:23:40;-1;ssh-keyscan -p 2222 -T 10 10.0.0.12 | ssh-keygen -lf -

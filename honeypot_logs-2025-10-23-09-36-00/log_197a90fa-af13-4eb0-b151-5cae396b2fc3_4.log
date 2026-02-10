@@ -1,0 +1,4 @@
+docker_id;generation;full_time;service;command
+197a90fa-af13-4eb0-b151-5cae396b2fc3;4;2025-10-13 16:16:01;7;ssh -p 33895 -i ./ssh-key-ctf nobody1@challenges.challenge-ecw.eu
+197a90fa-af13-4eb0-b151-5cae396b2fc3;4;2025-10-13 16:16:13;7;for i in {13..19}; do echo "Testing 10.0.0.$i"; timeout 3 ssh -p 2222 ot-user@10.0.0.$i <<< "exit" 2>&1 | head -5; done
+197a90fa-af13-4eb0-b151-5cae396b2fc3;4;2025-10-13 16:19:37;7;for i in {13..19}; do echo "=== 10.0.0.$i ==="; timeout 2 sshpass -p 'p@ssword' ssh -o StrictHostKeyChecking=no -p 2222 ot-user@10.0.0.$i 'whoami' 2>&1 | grep -E "(ot-user|denied|refused)"; done

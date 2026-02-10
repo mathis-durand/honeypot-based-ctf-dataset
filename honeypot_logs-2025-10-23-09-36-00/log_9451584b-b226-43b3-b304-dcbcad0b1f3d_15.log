@@ -1,0 +1,4 @@
+docker_id;generation;full_time;service;command
+9451584b-b226-43b3-b304-dcbcad0b1f3d;15;2025-10-13 16:11:24;-1;/usr/bin/
+9451584b-b226-43b3-b304-dcbcad0b1f3d;15;2025-10-13 16:11:26;-1;cd /usr/bin/
+9451584b-b226-43b3-b304-dcbcad0b1f3d;15;2025-10-13 16:11:27;-1;ls

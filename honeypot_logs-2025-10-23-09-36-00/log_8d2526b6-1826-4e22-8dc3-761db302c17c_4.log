@@ -1,0 +1,2 @@
+docker_id;generation;full_time;service;command
+8d2526b6-1826-4e22-8dc3-761db302c17c;4;2025-10-15 13:19:24;-1;ssh ot-user@10.0.0.11 -p 2222 '/usr/bin/rootshell/myShell < id'

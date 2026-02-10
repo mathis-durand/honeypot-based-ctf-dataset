@@ -1,0 +1,5 @@
+docker_id;generation;full_time;service;command
+5e4e55be-c2bc-4be5-9a7a-330a75fd788f;4;2025-10-20 18:14:57;-1;i=14            # change to the single last-octet you want to probe (11..19)
+5e4e55be-c2bc-4be5-9a7a-330a75fd788f;4;2025-10-20 18:14:57;-1;echo "== probing 10.0.0.$i =="
+5e4e55be-c2bc-4be5-9a7a-330a75fd788f;4;2025-10-20 18:14:57;-1;keyline=$(ssh-keyscan -p 2222 10.0.0.$i 2>/dev/null | head -n1) &&   { printf "%s\n" "$keyline"; printf "%s\n" "$keyline" | ssh-keygen -lf /dev/stdin 2>/dev/null || echo "fingerprint failed"; }
+5e4e55be-c2bc-4be5-9a7a-330a75fd788f;4;2025-10-20 18:15:01;-1;# wait 6-8s before probing another IP

@@ -1,0 +1,2 @@
+docker_id;generation;full_time;service;command
+1f76849d-3309-4ae3-ad89-cc7d3ae1e39e;11;2025-10-19 17:03:30;-1;find / -name "*.conf" -o -name "*.cfg" 2>/dev/null | grep -i ssh

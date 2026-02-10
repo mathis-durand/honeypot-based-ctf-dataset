@@ -1,0 +1,4 @@
+docker_id;generation;full_time;service;command
+49fdb546-c83e-4cb9-91c4-1a26d8bdef9f;4;2025-10-16 11:12:11;-1;cat /etc/resolv.conf
+49fdb546-c83e-4cb9-91c4-1a26d8bdef9f;4;2025-10-16 11:12:23;-1;ss
+49fdb546-c83e-4cb9-91c4-1a26d8bdef9f;4;2025-10-16 11:12:26;-1;netstat

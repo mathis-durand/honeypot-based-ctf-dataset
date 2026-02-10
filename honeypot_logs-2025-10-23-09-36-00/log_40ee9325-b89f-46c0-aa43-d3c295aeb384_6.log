@@ -1,0 +1,13 @@
+docker_id;generation;full_time;service;command
+40ee9325-b89f-46c0-aa43-d3c295aeb384;6;2025-10-14 23:15:05;-1;for i in {11..19}; do ssh -p 2222 ot-user@10.0.0.$i 'sudo -l'; done
+40ee9325-b89f-46c0-aa43-d3c295aeb384;6;2025-10-14 23:15:24;-1;for i in {11..19}; do ssh -p 2222 ot-user@10.0.0.$i 'sudo -l -S'; done
+40ee9325-b89f-46c0-aa43-d3c295aeb384;6;2025-10-14 23:18:44;-1;for i in {13..19}; do ssh -p 2222 ot-user@10.0.0.$i 'sudo -l -S'; done
+40ee9325-b89f-46c0-aa43-d3c295aeb384;6;2025-10-14 23:21:30;-1;for i in {18..19}; do ssh -p 2222 ot-user@10.0.0.$i 'sudo -l -S'; done
+40ee9325-b89f-46c0-aa43-d3c295aeb384;6;2025-10-14 23:30:00;-1;ls -la
+40ee9325-b89f-46c0-aa43-d3c295aeb384;6;2025-10-14 23:30:04;-1;ps -edf
+40ee9325-b89f-46c0-aa43-d3c295aeb384;6;2025-10-14 23:30:06;-1;cd /app
+40ee9325-b89f-46c0-aa43-d3c295aeb384;6;2025-10-14 23:30:07;-1;ls -la
+40ee9325-b89f-46c0-aa43-d3c295aeb384;6;2025-10-14 23:30:09;-1;cd lobby/
+40ee9325-b89f-46c0-aa43-d3c295aeb384;6;2025-10-14 23:30:10;-1;ll
+40ee9325-b89f-46c0-aa43-d3c295aeb384;6;2025-10-14 23:30:14;-1;cd ..
+40ee9325-b89f-46c0-aa43-d3c295aeb384;6;2025-10-14 23:30:16;-1;ll

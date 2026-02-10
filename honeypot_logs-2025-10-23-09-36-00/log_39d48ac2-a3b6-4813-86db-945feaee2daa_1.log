@@ -1,0 +1,16 @@
+docker_id;generation;full_time;service;command
+39d48ac2-a3b6-4813-86db-945feaee2daa;1;2025-10-14 17:21:12;-1;sudo -l
+39d48ac2-a3b6-4813-86db-945feaee2daa;1;2025-10-14 17:21:33;-1;which nmap
+39d48ac2-a3b6-4813-86db-945feaee2daa;1;2025-10-14 17:22:35;-1;scp -P 2222 /usr/bin/nmap ot-user@10.0.0.12
+39d48ac2-a3b6-4813-86db-945feaee2daa;1;2025-10-14 17:22:47;-1;scp -P 2222 /usr/bin/nmap ot-user@10.0.0.12:/tmp/nmap
+39d48ac2-a3b6-4813-86db-945feaee2daa;1;2025-10-14 17:23:24;-1;ssh -p 2222 ot-user@10.0.0.12
+39d48ac2-a3b6-4813-86db-945feaee2daa;1;2025-10-14 17:29:36;-1;cd /tmp
+39d48ac2-a3b6-4813-86db-945feaee2daa;1;2025-10-14 17:29:37;-1;l
+39d48ac2-a3b6-4813-86db-945feaee2daa;1;2025-10-14 17:29:52;-1;scp -P 2222 ./standalone_nmap ot-user@10.0.0.12:/tmp/stnmap
+39d48ac2-a3b6-4813-86db-945feaee2daa;1;2025-10-14 17:24:49;1;cd /tmp
+39d48ac2-a3b6-4813-86db-945feaee2daa;1;2025-10-14 17:24:50;1;ls
+39d48ac2-a3b6-4813-86db-945feaee2daa;1;2025-10-14 17:25:06;1;./nmap 10.0.0.11
+39d48ac2-a3b6-4813-86db-945feaee2daa;1;2025-10-14 17:27:00;1;exit
+39d48ac2-a3b6-4813-86db-945feaee2daa;1;2025-10-14 17:30:22;1;cd /tmp
+39d48ac2-a3b6-4813-86db-945feaee2daa;1;2025-10-14 17:30:23;1;ls
+39d48ac2-a3b6-4813-86db-945feaee2daa;1;2025-10-14 17:30:31;1;chmod +x stnmap 

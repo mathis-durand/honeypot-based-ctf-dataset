@@ -1,0 +1,4 @@
+docker_id;generation;full_time;service;command
+5c83bb9d-4df2-46fd-a783-ebc9d6f17ebe;17;2025-10-18 11:13:11;0;cd /usr/bin/rootshell
+5c83bb9d-4df2-46fd-a783-ebc9d6f17ebe;17;2025-10-18 11:13:38;0;ls
+5c83bb9d-4df2-46fd-a783-ebc9d6f17ebe;17;2025-10-18 11:13:54;0;strace -f -e trace=setuid,execve,openat,write ./myShell 2>&1 | sed -n '1,120p'

@@ -1,0 +1,2 @@
+docker_id;generation;full_time;service;command
+caa5c464-fd28-4afa-a85d-0f54f38c6d77;9;2025-10-17 14:36:35;-1;for i in $(seq 11 19); do   ping -c 1 -W 1 10.0.0.$i | grep "bytes from" | awk '{print $4,$7}'; done

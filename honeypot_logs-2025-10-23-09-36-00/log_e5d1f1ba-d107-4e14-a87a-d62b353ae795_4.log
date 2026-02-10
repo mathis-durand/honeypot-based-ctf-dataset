@@ -1,0 +1,2 @@
+docker_id;generation;full_time;service;command
+e5d1f1ba-d107-4e14-a87a-d62b353ae795;4;2025-10-16 16:22:01;-1;for i in $(seq 11 19); do   ip="10.0.0.$i";   f=$(ssh-keyscan -T 2 -p 2222 -t ed25519,ecdsa,rsa "$ip" 2>/dev/null | ssh-keygen -l -f - | awk '{print $2}' | sort -u | tr '\n' ' ');   echo "$ip $f";   sleep 0.6; done

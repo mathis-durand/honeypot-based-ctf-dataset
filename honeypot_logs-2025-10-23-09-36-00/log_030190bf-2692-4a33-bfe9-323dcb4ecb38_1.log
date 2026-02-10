@@ -1,0 +1,7 @@
+docker_id;generation;full_time;service;command
+030190bf-2692-4a33-bfe9-323dcb4ecb38;1;2025-10-15 09:10:36;-1;ls
+030190bf-2692-4a33-bfe9-323dcb4ecb38;1;2025-10-15 09:10:40;-1;ls -al
+030190bf-2692-4a33-bfe9-323dcb4ecb38;1;2025-10-15 09:10:57;-1;whoami
+030190bf-2692-4a33-bfe9-323dcb4ecb38;1;2025-10-15 09:11:01;-1;id
+030190bf-2692-4a33-bfe9-323dcb4ecb38;1;2025-10-15 09:11:17;-1;find /home -type f
+030190bf-2692-4a33-bfe9-323dcb4ecb38;1;2025-10-15 09:11:39;-1;env | grep -i pass

@@ -1,0 +1,3 @@
+docker_id;generation;full_time;service;command
+59979c64-57a2-4809-8193-2350ddef81eb;2;2025-10-19 21:53:14;-1;ls -la /logs
+59979c64-57a2-4809-8193-2350ddef81eb;2;2025-10-19 21:54:41;-1;for i in {11..19}; do   echo -n "10.0.0.$i:2222 -> ";   ssh-keyscan -p 2222 10.0.0.$i 2>/dev/null | ssh-keygen -lf - 2>/dev/null || echo "closed/unreachable"; done

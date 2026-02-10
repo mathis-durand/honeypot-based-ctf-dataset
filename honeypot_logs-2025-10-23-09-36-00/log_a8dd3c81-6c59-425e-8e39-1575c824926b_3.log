@@ -1,0 +1,2 @@
+docker_id;generation;full_time;service;command
+a8dd3c81-6c59-425e-8e39-1575c824926b;3;2025-10-19 22:41:59;-1;for ip in {11..19}; do     ping -c 1 10.0.0.$ip 2>/dev/null && echo "10.0.0.$ip is UP"; done

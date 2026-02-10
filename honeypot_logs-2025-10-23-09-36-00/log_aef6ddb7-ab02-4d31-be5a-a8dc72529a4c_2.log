@@ -1,0 +1,8 @@
+docker_id;generation;full_time;service;command
+aef6ddb7-ab02-4d31-be5a-a8dc72529a4c;2;2025-10-16 20:52:30;1;ls -la /home
+aef6ddb7-ab02-4d31-be5a-a8dc72529a4c;2;2025-10-16 20:52:33;1;ls -la /home/admin
+aef6ddb7-ab02-4d31-be5a-a8dc72529a4c;2;2025-10-16 20:52:37;1;ls -la /home/user
+aef6ddb7-ab02-4d31-be5a-a8dc72529a4c;2;2025-10-16 20:52:57;1;sudo -l
+aef6ddb7-ab02-4d31-be5a-a8dc72529a4c;2;2025-10-16 20:53:49;1;cd /tmp
+aef6ddb7-ab02-4d31-be5a-a8dc72529a4c;2;2025-10-16 20:53:50;1;ls -la
+aef6ddb7-ab02-4d31-be5a-a8dc72529a4c;2;2025-10-16 20:53:54;1;chmod +x linpeas.sh

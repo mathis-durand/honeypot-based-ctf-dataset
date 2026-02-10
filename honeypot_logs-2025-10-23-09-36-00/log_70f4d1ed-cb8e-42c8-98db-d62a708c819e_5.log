@@ -1,0 +1,127 @@
+docker_id;generation;full_time;service;command
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 21:57:08;0;ls -laR /home
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 21:57:17;0;cat /flag.txt
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 21:57:27;0;ls -la /
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 21:59:57;0;cat /app/drones/drone-controller.py
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 22:00:29;0;cat /app/drones/retrieve-pic.sh
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 22:01:06;0;ls -l /homr
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 22:01:09;0;ls -l /home
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 22:01:18;0;ls -la /app
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 22:01:28;0;cat /app.update.py
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 22:01:32;0;cat /app/update.py
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 22:01:43;0;ls -laR /app
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 22:01:55;0;cat /app/ssh/start.sh 
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 22:03:18;0;cat /home/flag.txt
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 22:04:04;0;cat /home/ot-admin/flag.txt
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 21:57:08;1;ls -laR /home
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 21:57:17;1;cat /flag.txt
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 21:57:27;1;ls -la /
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 21:59:57;1;cat /app/drones/drone-controller.py
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 22:00:29;1;cat /app/drones/retrieve-pic.sh
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 22:01:06;1;ls -l /homr
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 22:01:09;1;ls -l /home
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 22:01:18;1;ls -la /app
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 22:01:28;1;cat /app.update.py
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 22:01:32;1;cat /app/update.py
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 22:01:43;1;ls -laR /app
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 22:01:55;1;cat /app/ssh/start.sh 
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 22:03:18;1;cat /home/flag.txt
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 22:04:04;1;cat /home/ot-admin/flag.txt
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 21:57:08;2;ls -laR /home
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 21:57:17;2;cat /flag.txt
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 21:57:27;2;ls -la /
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 21:59:57;2;cat /app/drones/drone-controller.py
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 22:00:29;2;cat /app/drones/retrieve-pic.sh
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 22:01:06;2;ls -l /homr
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 22:01:09;2;ls -l /home
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 22:01:18;2;ls -la /app
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 22:01:28;2;cat /app.update.py
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 22:01:32;2;cat /app/update.py
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 22:01:43;2;ls -laR /app
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 22:01:55;2;cat /app/ssh/start.sh 
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 22:03:18;2;cat /home/flag.txt
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 22:04:04;2;cat /home/ot-admin/flag.txt
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 21:57:08;3;ls -laR /home
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 21:57:17;3;cat /flag.txt
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 21:57:27;3;ls -la /
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 21:59:57;3;cat /app/drones/drone-controller.py
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 22:00:29;3;cat /app/drones/retrieve-pic.sh
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 22:01:06;3;ls -l /homr
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 22:01:09;3;ls -l /home
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 22:01:18;3;ls -la /app
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 22:01:28;3;cat /app.update.py
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 22:01:32;3;cat /app/update.py
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 22:01:43;3;ls -laR /app
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 22:01:55;3;cat /app/ssh/start.sh 
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 22:03:18;3;cat /home/flag.txt
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 22:04:04;3;cat /home/ot-admin/flag.txt
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 21:57:08;4;ls -laR /home
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 21:57:17;4;cat /flag.txt
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 21:57:27;4;ls -la /
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 21:59:57;4;cat /app/drones/drone-controller.py
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 22:00:29;4;cat /app/drones/retrieve-pic.sh
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 22:01:06;4;ls -l /homr
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 22:01:09;4;ls -l /home
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 22:01:18;4;ls -la /app
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 22:01:28;4;cat /app.update.py
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 22:01:32;4;cat /app/update.py
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 22:01:43;4;ls -laR /app
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 22:01:55;4;cat /app/ssh/start.sh 
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 22:03:18;4;cat /home/flag.txt
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 22:04:04;4;cat /home/ot-admin/flag.txt
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 21:57:08;5;ls -laR /home
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 21:57:17;5;cat /flag.txt
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 21:57:27;5;ls -la /
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 21:59:57;5;cat /app/drones/drone-controller.py
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 22:00:29;5;cat /app/drones/retrieve-pic.sh
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 22:01:06;5;ls -l /homr
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 22:01:09;5;ls -l /home
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 22:01:18;5;ls -la /app
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 22:01:28;5;cat /app.update.py
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 22:01:32;5;cat /app/update.py
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 22:01:43;5;ls -laR /app
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 22:01:55;5;cat /app/ssh/start.sh 
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 22:03:18;5;cat /home/flag.txt
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 22:04:04;5;cat /home/ot-admin/flag.txt
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 21:57:08;6;ls -laR /home
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 21:57:17;6;cat /flag.txt
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 21:57:27;6;ls -la /
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 21:59:57;6;cat /app/drones/drone-controller.py
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 22:00:29;6;cat /app/drones/retrieve-pic.sh
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 22:01:06;6;ls -l /homr
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 22:01:09;6;ls -l /home
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 22:01:18;6;ls -la /app
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 22:01:28;6;cat /app.update.py
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 22:01:32;6;cat /app/update.py
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 22:01:43;6;ls -laR /app
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 22:01:55;6;cat /app/ssh/start.sh 
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 22:03:18;6;cat /home/flag.txt
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 22:04:04;6;cat /home/ot-admin/flag.txt
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 21:57:08;7;ls -laR /home
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 21:57:17;7;cat /flag.txt
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 21:57:27;7;ls -la /
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 21:59:57;7;cat /app/drones/drone-controller.py
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 22:00:29;7;cat /app/drones/retrieve-pic.sh
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 22:01:06;7;ls -l /homr
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 22:01:09;7;ls -l /home
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 22:01:18;7;ls -la /app
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 22:01:28;7;cat /app.update.py
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 22:01:32;7;cat /app/update.py
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 22:01:43;7;ls -laR /app
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 22:01:55;7;cat /app/ssh/start.sh 
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 22:03:18;7;cat /home/flag.txt
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 22:04:04;7;cat /home/ot-admin/flag.txt
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 21:57:08;8;ls -laR /home
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 21:57:17;8;cat /flag.txt
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 21:57:27;8;ls -la /
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 21:59:57;8;cat /app/drones/drone-controller.py
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 22:00:29;8;cat /app/drones/retrieve-pic.sh
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 22:01:06;8;ls -l /homr
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 22:01:09;8;ls -l /home
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 22:01:18;8;ls -la /app
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 22:01:28;8;cat /app.update.py
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 22:01:32;8;cat /app/update.py
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 22:01:43;8;ls -laR /app
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 22:01:55;8;cat /app/ssh/start.sh 
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 22:03:18;8;cat /home/flag.txt
+70f4d1ed-cb8e-42c8-98db-d62a708c819e;5;2025-10-18 22:04:04;8;cat /home/ot-admin/flag.txt

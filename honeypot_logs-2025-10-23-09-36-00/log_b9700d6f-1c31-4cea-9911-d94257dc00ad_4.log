@@ -1,0 +1,4 @@
+docker_id;generation;full_time;service;command
+b9700d6f-1c31-4cea-9911-d94257dc00ad;4;2025-10-15 22:15:06;-1;ss -lntp
+b9700d6f-1c31-4cea-9911-d94257dc00ad;4;2025-10-15 22:15:10;-1;ls /bin
+b9700d6f-1c31-4cea-9911-d94257dc00ad;4;2025-10-15 22:15:59;-1;ip

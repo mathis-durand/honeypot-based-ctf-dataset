@@ -1,0 +1,2 @@
+docker_id;generation;full_time;service;command
+145d7040-aed7-4d5f-98f4-48ac6b3ad3c1;2;2025-10-14 10:54:57;-1;echo "aXAgYSAK" | base64 -d | sh   

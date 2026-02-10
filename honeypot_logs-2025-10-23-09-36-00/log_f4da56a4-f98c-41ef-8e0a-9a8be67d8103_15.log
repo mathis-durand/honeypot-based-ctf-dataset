@@ -1,0 +1,14 @@
+docker_id;generation;full_time;service;command
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;15;2025-10-19 18:35:24;-1;ssh -p 2222 ot-user@10.0.0.11 -P "p@ssword"
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;15;2025-10-19 18:38:38;1;env
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;15;2025-10-19 18:38:57;1;git
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;15;2025-10-19 18:39:01;1;ls /opt/
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;15;2025-10-19 18:39:02;1;ls
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;15;2025-10-19 18:39:09;1;ls /opt
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;15;2025-10-19 18:40:33;1;ls
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;15;2025-10-19 18:40:42;1;ls /home
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;15;2025-10-19 18:40:55;1;ls /usr/
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;15;2025-10-19 18:40:59;1;ls /usr/bin/
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;15;2025-10-19 18:41:41;1;ls -la /usr/bin/rootshell
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;15;2025-10-19 18:41:47;1;file /usr/bin/rootshell
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;15;2025-10-19 18:41:54;1;cat /usr/lib/systemd/system/sudo.service

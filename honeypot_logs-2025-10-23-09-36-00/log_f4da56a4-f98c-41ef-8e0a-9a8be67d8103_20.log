@@ -1,0 +1,17 @@
+docker_id;generation;full_time;service;command
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;20;2025-10-19 18:53:25;-1;nmap 10.0.0.11-19
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;20;2025-10-19 18:54:10;8;ls /etc/
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;20;2025-10-19 18:54:47;8;ls /etc/ngin*
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;20;2025-10-19 18:54:53;8;hostname
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;20;2025-10-19 18:55:11;8;ps aux
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;20;2025-10-19 18:55:22;8;ls /home
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;20;2025-10-19 18:55:30;8;ls /tmp
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;20;2025-10-19 18:55:32;8;id
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;20;2025-10-19 18:55:34;8;ls
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;20;2025-10-19 18:56:20;8;ls /var/
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;20;2025-10-19 18:56:27;8;ls /var/backups/
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;20;2025-10-19 18:56:35;8;ls /etc/nginx
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;20;2025-10-19 18:56:41;8;ls /etc/apache2
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;20;2025-10-19 18:56:48;8;ps aux | grep http
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;20;2025-10-19 18:56:54;8;ps aux | grep nginx
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;20;2025-10-19 18:57:04;8;wget -O- http://localhost

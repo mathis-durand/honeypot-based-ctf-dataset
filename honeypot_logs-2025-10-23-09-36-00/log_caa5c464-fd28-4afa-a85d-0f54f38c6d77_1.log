@@ -1,0 +1,9 @@
+docker_id;generation;full_time;service;command
+caa5c464-fd28-4afa-a85d-0f54f38c6d77;1;2025-10-17 14:02:35;-1;clear
+caa5c464-fd28-4afa-a85d-0f54f38c6d77;1;2025-10-17 14:03:24;-1;ls -al
+caa5c464-fd28-4afa-a85d-0f54f38c6d77;1;2025-10-17 14:03:27;-1;cat *
+caa5c464-fd28-4afa-a85d-0f54f38c6d77;1;2025-10-17 14:03:30;-1;cat ./*
+caa5c464-fd28-4afa-a85d-0f54f38c6d77;1;2025-10-17 14:03:37;-1;cat ./.*
+caa5c464-fd28-4afa-a85d-0f54f38c6d77;1;2025-10-17 14:04:02;-1;ll
+caa5c464-fd28-4afa-a85d-0f54f38c6d77;1;2025-10-17 14:04:06;-1;cat .cache/
+caa5c464-fd28-4afa-a85d-0f54f38c6d77;1;2025-10-17 14:04:10;-1;cat .bashrc

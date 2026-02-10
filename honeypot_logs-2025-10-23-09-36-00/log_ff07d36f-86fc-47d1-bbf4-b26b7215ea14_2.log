@@ -1,0 +1,5 @@
+docker_id;generation;full_time;service;command
+ff07d36f-86fc-47d1-bbf4-b26b7215ea14;2;2025-10-14 13:47:05;6;ls
+ff07d36f-86fc-47d1-bbf4-b26b7215ea14;2;2025-10-14 13:47:13;6;cat /etc/resolv.conf 
+ff07d36f-86fc-47d1-bbf4-b26b7215ea14;2;2025-10-14 13:47:21;6;sudo -l
+ff07d36f-86fc-47d1-bbf4-b26b7215ea14;2;2025-10-14 13:47:47;6;uname -a

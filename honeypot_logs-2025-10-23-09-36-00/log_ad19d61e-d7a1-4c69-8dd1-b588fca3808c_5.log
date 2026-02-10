@@ -1,0 +1,5 @@
+docker_id;generation;full_time;service;command
+ad19d61e-d7a1-4c69-8dd1-b588fca3808c;5;2025-10-15 18:11:10;8;ls -la /usr/bin/rootshell
+ad19d61e-d7a1-4c69-8dd1-b588fca3808c;5;2025-10-15 18:11:10;8;strings /usr/bin/rootshell/myShell | head -n 40
+ad19d61e-d7a1-4c69-8dd1-b588fca3808c;5;2025-10-15 18:11:11;8;cat /app/update.py
+ad19d61e-d7a1-4c69-8dd1-b588fca3808c;5;2025-10-15 18:11:11;8;ls -la /app/drones /app/ssh

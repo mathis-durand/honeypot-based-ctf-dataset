@@ -1,0 +1,8 @@
+docker_id;generation;full_time;service;command
+7500f5c5-fbbc-4e4d-ad9a-021c9ab334f7;6;2025-10-17 11:08:54;1;ls
+7500f5c5-fbbc-4e4d-ad9a-021c9ab334f7;6;2025-10-17 11:09:02;1;cat README 
+7500f5c5-fbbc-4e4d-ad9a-021c9ab334f7;6;2025-10-17 11:09:07;1;cd ../..
+7500f5c5-fbbc-4e4d-ad9a-021c9ab334f7;6;2025-10-17 11:09:10;1;ls
+7500f5c5-fbbc-4e4d-ad9a-021c9ab334f7;6;2025-10-17 11:09:27;1;ps -aux
+7500f5c5-fbbc-4e4d-ad9a-021c9ab334f7;6;2025-10-17 11:10:08;1;sudo -l
+7500f5c5-fbbc-4e4d-ad9a-021c9ab334f7;6;2025-10-17 11:10:52;1;find / -perm u/s 2>/dev/null

@@ -1,0 +1,20 @@
+docker_id;generation;full_time;service;command
+fb7e4b10-0b5e-4e78-9a49-a6cb61246f8e;4;2025-10-14 13:18:08;-1;nmap 10.0.0.11-19 -Pn -sV -vvv
+fb7e4b10-0b5e-4e78-9a49-a6cb61246f8e;4;2025-10-14 13:21:34;-1;ssh -p 2222 ot-user@10.0.0.11
+fb7e4b10-0b5e-4e78-9a49-a6cb61246f8e;4;2025-10-14 13:23:38;1;find /home/ -type f -exec strings {} \;
+fb7e4b10-0b5e-4e78-9a49-a6cb61246f8e;4;2025-10-14 13:23:46;1;cd ..
+fb7e4b10-0b5e-4e78-9a49-a6cb61246f8e;4;2025-10-14 13:23:47;1;ls
+fb7e4b10-0b5e-4e78-9a49-a6cb61246f8e;4;2025-10-14 13:23:50;1;cd admin/
+fb7e4b10-0b5e-4e78-9a49-a6cb61246f8e;4;2025-10-14 13:23:51;1;ls
+fb7e4b10-0b5e-4e78-9a49-a6cb61246f8e;4;2025-10-14 13:23:53;1;ls -al
+fb7e4b10-0b5e-4e78-9a49-a6cb61246f8e;4;2025-10-14 13:24:03;1;cd ..
+fb7e4b10-0b5e-4e78-9a49-a6cb61246f8e;4;2025-10-14 13:24:11;1;cd ls -al ghost/
+fb7e4b10-0b5e-4e78-9a49-a6cb61246f8e;4;2025-10-14 13:24:20;1;ls -al ghost/
+fb7e4b10-0b5e-4e78-9a49-a6cb61246f8e;4;2025-10-14 13:24:27;1;ls -al ot-admin/
+fb7e4b10-0b5e-4e78-9a49-a6cb61246f8e;4;2025-10-14 13:24:33;1;ls -al skywalker/
+fb7e4b10-0b5e-4e78-9a49-a6cb61246f8e;4;2025-10-14 13:24:38;1;cat nota-bene 
+fb7e4b10-0b5e-4e78-9a49-a6cb61246f8e;4;2025-10-14 13:24:44;1;cat todo.md 
+fb7e4b10-0b5e-4e78-9a49-a6cb61246f8e;4;2025-10-14 13:25:18;1;find / -type -f -name "*git" 2>/dev/null
+fb7e4b10-0b5e-4e78-9a49-a6cb61246f8e;4;2025-10-14 13:21:46;2;ls
+fb7e4b10-0b5e-4e78-9a49-a6cb61246f8e;4;2025-10-14 13:22:14;2;ls /home/
+fb7e4b10-0b5e-4e78-9a49-a6cb61246f8e;4;2025-10-14 13:22:41;2;find /home/ -type f -exec strings {} \;

@@ -1,0 +1,8 @@
+docker_id;generation;full_time;service;command
+49fdb546-c83e-4cb9-91c4-1a26d8bdef9f;6;2025-10-16 11:20:36;-1;ssh ot-user@10.0.0.15
+49fdb546-c83e-4cb9-91c4-1a26d8bdef9f;6;2025-10-16 11:20:39;-1;ssh ot-user@10.0.0.11
+49fdb546-c83e-4cb9-91c4-1a26d8bdef9f;6;2025-10-16 11:21:23;8;cd /var/log
+49fdb546-c83e-4cb9-91c4-1a26d8bdef9f;6;2025-10-16 11:21:24;8;ls
+49fdb546-c83e-4cb9-91c4-1a26d8bdef9f;6;2025-10-16 11:21:30;8;cat alternatives.log 
+49fdb546-c83e-4cb9-91c4-1a26d8bdef9f;6;2025-10-16 11:21:46;8;clear
+49fdb546-c83e-4cb9-91c4-1a26d8bdef9f;6;2025-10-16 11:21:53;8;export TERM=xterm

@@ -1,0 +1,8 @@
+docker_id;generation;full_time;service;command
+f7a5508c-41fe-45ad-a5f8-98c07dc630a5;9;2025-10-20 08:03:39;-1;ssh ot-user@10.0.0.11
+f7a5508c-41fe-45ad-a5f8-98c07dc630a5;9;2025-10-20 08:03:41;-1;ssh ot-user@10.0.0.12
+f7a5508c-41fe-45ad-a5f8-98c07dc630a5;9;2025-10-20 08:03:42;-1;ssh ot-user@10.0.0.13
+f7a5508c-41fe-45ad-a5f8-98c07dc630a5;9;2025-10-20 08:03:43;-1;ssh ot-user@10.0.0.14
+f7a5508c-41fe-45ad-a5f8-98c07dc630a5;9;2025-10-20 08:10:44;8;id
+f7a5508c-41fe-45ad-a5f8-98c07dc630a5;9;2025-10-20 08:10:53;8;newgrp admin
+f7a5508c-41fe-45ad-a5f8-98c07dc630a5;9;2025-10-20 08:11:56;8;find /usr/bin -perm 4000

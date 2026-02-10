@@ -1,0 +1,3 @@
+docker_id;generation;full_time;service;command
+8d5030ff-c49d-478f-8e69-60660b990d4f;3;2025-10-19 12:13:30;-1;rm -f hostkeys_2222.txt
+8d5030ff-c49d-478f-8e69-60660b990d4f;3;2025-10-19 12:13:30;-1;for ip in {11..19}; do   echo "=== 10.0.0.$ip ===" >> hostkeys_2222.txt;   ssh-keyscan -p 2222 -T 2 10.0.0.$ip 2>>hostkeys_2222.txt || echo "no hostkey" >> hostkeys_2222.txt; done

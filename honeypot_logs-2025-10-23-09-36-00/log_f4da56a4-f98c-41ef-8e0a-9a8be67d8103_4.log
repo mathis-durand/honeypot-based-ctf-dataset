@@ -1,0 +1,19 @@
+docker_id;generation;full_time;service;command
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;4;2025-10-19 18:17:54;-1;cd /app/
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;4;2025-10-19 18:17:54;-1;ls
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;4;2025-10-19 18:17:56;-1;cd lobby/
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;4;2025-10-19 18:17:57;-1;ls
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;4;2025-10-19 18:18:00;-1;cat *
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;4;2025-10-19 18:18:14;-1;ssh -i ~/.ssh/id_ed25519 -p 2222 m23dura2@10.0.0.11
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;4;2025-10-19 18:18:47;-1;ssh -i ~/.ssh/id_ed25519 -p 2222 -o ConnectTimeout=5 m23dura2@10.0.0.11
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;4;2025-10-19 18:19:41;0;ls
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;4;2025-10-19 18:19:44;0;cat README 
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;4;2025-10-19 18:19:56;0;id
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;4;2025-10-19 18:20:00;0;ls /
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;4;2025-10-19 18:20:02;0;ls /home
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;4;2025-10-19 18:20:08;0;ls /home/*
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;4;2025-10-19 18:20:13;0;cat /home/nota-bene
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;4;2025-10-19 18:20:19;0;cat /home/nota-bene/*
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;4;2025-10-19 18:20:23;0;cat /home/todo.md
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;4;2025-10-19 18:20:52;0;sudo -l
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;4;2025-10-19 18:21:04;0;find / -perm -4000 2>/dev/null

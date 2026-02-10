@@ -1,0 +1,8 @@
+docker_id;generation;full_time;service;command
+8ccbeacb-e936-49d4-a6de-1d652936b629;6;2025-10-17 13:08:17;-1;mcookie -h
+8ccbeacb-e936-49d4-a6de-1d652936b629;6;2025-10-17 13:32:17;-1;mcookie 
+8ccbeacb-e936-49d4-a6de-1d652936b629;6;2025-10-17 13:32:21;-1;mcooke
+8ccbeacb-e936-49d4-a6de-1d652936b629;6;2025-10-17 13:32:24;-1;mcooki
+8ccbeacb-e936-49d4-a6de-1d652936b629;6;2025-10-17 13:32:26;-1;mcookie
+8ccbeacb-e936-49d4-a6de-1d652936b629;6;2025-10-17 13:34:30;-1;debugfs -w /dev/sda1
+8ccbeacb-e936-49d4-a6de-1d652936b629;6;2025-10-17 13:36:21;-1;find / -perm -4000 -type f 2>/dev/null | grep -E 'nmap|debugfs|losetup|unshare|nsenter'

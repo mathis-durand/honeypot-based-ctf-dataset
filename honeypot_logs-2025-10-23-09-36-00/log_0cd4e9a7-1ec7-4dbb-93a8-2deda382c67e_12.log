@@ -1,0 +1,2 @@
+docker_id;generation;full_time;service;command
+0cd4e9a7-1ec7-4dbb-93a8-2deda382c67e;12;2025-10-13 20:47:31;-1;ssh -p 34394 -i ./ssh-key-ctf nobody1@challenges.challenge-ecw.eu

@@ -1,0 +1,3 @@
+docker_id;generation;full_time;service;command
+d32fe361-2631-4ded-a0d9-34f056fc2531;3;2025-10-17 11:28:11;0;ps -aux
+d32fe361-2631-4ded-a0d9-34f056fc2531;3;2025-10-17 11:30:25;0;netstat -tulpn

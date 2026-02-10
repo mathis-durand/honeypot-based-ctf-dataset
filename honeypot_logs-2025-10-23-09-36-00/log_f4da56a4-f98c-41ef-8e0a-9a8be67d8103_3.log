@@ -1,0 +1,7 @@
+docker_id;generation;full_time;service;command
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;3;2025-10-19 18:15:19;-1;nmap -sn 10.0.0.1/24
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;3;2025-10-19 18:16:08;-1;ssh -p 2222 -P "p@ssword" ot-user&10.0.0.5
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;3;2025-10-19 18:16:29;-1;nmap -sn 10.0.0.1/24
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;3;2025-10-19 18:16:43;-1;ls /tmp/*
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;3;2025-10-19 18:17:20;-1;find / -type f -name *bastion-key*
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;3;2025-10-19 18:17:32;-1;find / -type f -name *bastion-key* 2>/dev/null 

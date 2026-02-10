@@ -1,0 +1,2 @@
+docker_id;generation;full_time;service;command
+aef6ddb7-ab02-4d31-be5a-a8dc72529a4c;5;2025-10-16 21:03:59;1;tail -f /tmp/logs

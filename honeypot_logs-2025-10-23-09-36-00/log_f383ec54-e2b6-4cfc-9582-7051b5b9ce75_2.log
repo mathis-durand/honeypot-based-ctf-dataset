@@ -1,0 +1,6 @@
+docker_id;generation;full_time;service;command
+f383ec54-e2b6-4cfc-9582-7051b5b9ce75;2;2025-10-15 10:48:11;-1;ll
+f383ec54-e2b6-4cfc-9582-7051b5b9ce75;2;2025-10-15 10:48:13;-1;ll ../
+f383ec54-e2b6-4cfc-9582-7051b5b9ce75;2;2025-10-15 10:48:16;-1;ll ../..
+f383ec54-e2b6-4cfc-9582-7051b5b9ce75;2;2025-10-15 10:48:27;-1;ll /home
+f383ec54-e2b6-4cfc-9582-7051b5b9ce75;2;2025-10-15 10:48:47;-1;cat /etc/passwd

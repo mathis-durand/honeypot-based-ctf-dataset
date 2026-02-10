@@ -1,0 +1,2 @@
+docker_id;generation;full_time;service;command
+cbc0dbbb-20fe-42b3-803c-4447b770cd05;4;2025-10-15 17:05:53;-1;which ip 2>/dev/null || command -v ip 2>/dev/null || ls -l /sbin/ip /usr/sbin/ip /bin/ip 2>/dev/null || true

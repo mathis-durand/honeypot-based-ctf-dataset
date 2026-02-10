@@ -1,0 +1,14 @@
+docker_id;generation;full_time;service;command
+caa5c464-fd28-4afa-a85d-0f54f38c6d77;2;2025-10-17 14:04:34;-1;cat ./.*
+caa5c464-fd28-4afa-a85d-0f54f38c6d77;2;2025-10-17 14:06:15;-1;alert
+caa5c464-fd28-4afa-a85d-0f54f38c6d77;2;2025-10-17 14:06:20;-1;$alert
+caa5c464-fd28-4afa-a85d-0f54f38c6d77;2;2025-10-17 14:06:22;-1;clear
+caa5c464-fd28-4afa-a85d-0f54f38c6d77;2;2025-10-17 14:09:39;1;ls
+caa5c464-fd28-4afa-a85d-0f54f38c6d77;2;2025-10-17 14:09:42;1;ls ..
+caa5c464-fd28-4afa-a85d-0f54f38c6d77;2;2025-10-17 14:09:50;1;viù
+caa5c464-fd28-4afa-a85d-0f54f38c6d77;2;2025-10-17 14:09:52;1;vim
+caa5c464-fd28-4afa-a85d-0f54f38c6d77;2;2025-10-17 14:09:54;1;nano
+caa5c464-fd28-4afa-a85d-0f54f38c6d77;2;2025-10-17 14:09:58;1;cat ../*
+caa5c464-fd28-4afa-a85d-0f54f38c6d77;2;2025-10-17 14:12:53;1;ll ../
+caa5c464-fd28-4afa-a85d-0f54f38c6d77;2;2025-10-17 14:15:01;1;cat ../nota-bene
+caa5c464-fd28-4afa-a85d-0f54f38c6d77;2;2025-10-17 14:15:01;1;cat ../todo.md | sed -n '1,200p'

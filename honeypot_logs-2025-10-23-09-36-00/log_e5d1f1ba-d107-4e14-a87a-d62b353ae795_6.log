@@ -1,0 +1,5 @@
+docker_id;generation;full_time;service;command
+e5d1f1ba-d107-4e14-a87a-d62b353ae795;6;2025-10-16 17:14:31;3;whoami
+e5d1f1ba-d107-4e14-a87a-d62b353ae795;6;2025-10-16 17:14:34;3;id
+e5d1f1ba-d107-4e14-a87a-d62b353ae795;6;2025-10-16 17:14:38;3;hostname
+e5d1f1ba-d107-4e14-a87a-d62b353ae795;6;2025-10-16 17:15:36;3;uname -a

@@ -1,0 +1,3 @@
+docker_id;generation;full_time;service;command
+93b64b07-6393-4da0-b5c8-3fa382f5dc1a;6;2025-10-15 15:57:50;-1;arp -a
+93b64b07-6393-4da0-b5c8-3fa382f5dc1a;6;2025-10-15 15:58:08;-1;ip

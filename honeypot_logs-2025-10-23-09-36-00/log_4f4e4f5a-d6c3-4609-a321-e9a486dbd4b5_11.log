@@ -1,0 +1,4 @@
+docker_id;generation;full_time;service;command
+4f4e4f5a-d6c3-4609-a321-e9a486dbd4b5;11;2025-10-22 00:50:38;-1;id
+4f4e4f5a-d6c3-4609-a321-e9a486dbd4b5;11;2025-10-22 00:51:32;-1;sudo -r
+4f4e4f5a-d6c3-4609-a321-e9a486dbd4b5;11;2025-10-22 00:52:50;-1;sudo -l 2>/dev/null

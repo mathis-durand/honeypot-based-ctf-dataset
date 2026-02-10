@@ -1,0 +1,8 @@
+docker_id;generation;full_time;service;command
+5e414a13-12cd-47d6-bab9-478fc318393b;19;2025-10-15 12:06:24;-1;nmap 10.0.0.11
+5e414a13-12cd-47d6-bab9-478fc318393b;19;2025-10-15 12:06:26;-1;nmap 10.0.0.12
+5e414a13-12cd-47d6-bab9-478fc318393b;19;2025-10-15 12:06:29;-1;nmap 10.0.0.13
+5e414a13-12cd-47d6-bab9-478fc318393b;19;2025-10-15 12:06:31;-1;nmap 10.0.0.14
+5e414a13-12cd-47d6-bab9-478fc318393b;19;2025-10-15 12:06:34;-1;nmap 10.0.0.15
+5e414a13-12cd-47d6-bab9-478fc318393b;19;2025-10-15 12:06:36;-1;nmap 10.0.0.16
+5e414a13-12cd-47d6-bab9-478fc318393b;19;2025-10-15 12:07:05;8;cp /usr/bin/rootshell/myShell /tmp/myShell_copy && strings -n 6 /tmp/myShell_copy > /tmp/myShell_strings.txt && head -n 200 /tmp/myShell_strings.txt

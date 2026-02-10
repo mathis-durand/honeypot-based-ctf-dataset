@@ -1,0 +1,4 @@
+docker_id;generation;full_time;service;command
+1f76849d-3309-4ae3-ad89-cc7d3ae1e39e;16;2025-10-19 17:14:30;-1;find /home -name "*key*" -o -name "*ssh*" 2>/dev/null
+1f76849d-3309-4ae3-ad89-cc7d3ae1e39e;16;2025-10-19 17:14:34;-1;ls /
+1f76849d-3309-4ae3-ad89-cc7d3ae1e39e;16;2025-10-19 17:14:37;-1;ls /var/

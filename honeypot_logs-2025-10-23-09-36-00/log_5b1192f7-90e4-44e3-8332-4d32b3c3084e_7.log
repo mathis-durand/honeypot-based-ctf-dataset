@@ -1,0 +1,7 @@
+docker_id;generation;full_time;service;command
+5b1192f7-90e4-44e3-8332-4d32b3c3084e;7;2025-10-19 18:15:25;-1;ssh ot-user@10.0.0.12 -p 2222
+5b1192f7-90e4-44e3-8332-4d32b3c3084e;7;2025-10-19 18:22:29;0;find /etc /usr/bin /usr/sbin -type f -exec md5sum {} +
+5b1192f7-90e4-44e3-8332-4d32b3c3084e;7;2025-10-19 18:26:41;0;cat /etc/hosts
+5b1192f7-90e4-44e3-8332-4d32b3c3084e;7;2025-10-19 18:22:45;4;find /etc /usr/bin /usr/sbin -type f -exec md5sum {} +
+5b1192f7-90e4-44e3-8332-4d32b3c3084e;7;2025-10-19 18:26:53;4;cat /etc/hosts
+5b1192f7-90e4-44e3-8332-4d32b3c3084e;7;2025-10-19 18:27:51;4;whoami

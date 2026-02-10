@@ -1,0 +1,5 @@
+docker_id;generation;full_time;service;command
+e387dfcb-5f86-4665-9474-c5eb7affd9d6;1;2025-10-17 12:55:46;-1;clear
+e387dfcb-5f86-4665-9474-c5eb7affd9d6;1;2025-10-17 12:55:50;-1;cd /home
+e387dfcb-5f86-4665-9474-c5eb7affd9d6;1;2025-10-17 12:55:53;-1;ls
+e387dfcb-5f86-4665-9474-c5eb7affd9d6;1;2025-10-17 12:56:36;-1;ssh ot-user@10.0.0.11

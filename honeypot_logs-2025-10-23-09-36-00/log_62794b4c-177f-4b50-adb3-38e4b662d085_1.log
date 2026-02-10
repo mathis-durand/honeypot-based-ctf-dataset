@@ -1,0 +1,4 @@
+docker_id;generation;full_time;service;command
+62794b4c-177f-4b50-adb3-38e4b662d085;1;2025-10-14 22:13:10;-1;no
+62794b4c-177f-4b50-adb3-38e4b662d085;1;2025-10-14 22:13:45;-1;exit
+62794b4c-177f-4b50-adb3-38e4b662d085;1;2025-10-14 22:14:17;-1;which nmap nc netcat wget curl ssh

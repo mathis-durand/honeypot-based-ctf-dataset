@@ -1,0 +1,12 @@
+docker_id;generation;full_time;service;command
+f6df80f5-cfb5-4261-9daf-02b479f6438a;1;2025-10-20 20:06:47;-1;exit
+f6df80f5-cfb5-4261-9daf-02b479f6438a;1;2025-10-20 20:12:04;5;ps -aux
+f6df80f5-cfb5-4261-9daf-02b479f6438a;1;2025-10-20 20:13:32;5;find
+f6df80f5-cfb5-4261-9daf-02b479f6438a;1;2025-10-20 20:13:38;5;find /hopme
+f6df80f5-cfb5-4261-9daf-02b479f6438a;1;2025-10-20 20:13:40;5;find /home
+f6df80f5-cfb5-4261-9daf-02b479f6438a;1;2025-10-20 20:13:48;5;find /home/opt/var/www
+f6df80f5-cfb5-4261-9daf-02b479f6438a;1;2025-10-20 20:13:50;5;find /opt
+f6df80f5-cfb5-4261-9daf-02b479f6438a;1;2025-10-20 20:13:54;5;find /var/www
+f6df80f5-cfb5-4261-9daf-02b479f6438a;1;2025-10-20 20:13:59;5;find /tmp
+f6df80f5-cfb5-4261-9daf-02b479f6438a;1;2025-10-20 20:14:07;5;find /tmp -xdev -user root
+f6df80f5-cfb5-4261-9daf-02b479f6438a;1;2025-10-20 20:14:23;5;find /home /opt /var/www /tmp -xdev -user root -type f -exec ls -l {} \; 2>/dev/null | head -n 40

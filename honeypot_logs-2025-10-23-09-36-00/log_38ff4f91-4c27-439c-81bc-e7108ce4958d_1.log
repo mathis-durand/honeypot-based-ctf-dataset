@@ -1,0 +1,5 @@
+docker_id;generation;full_time;service;command
+38ff4f91-4c27-439c-81bc-e7108ce4958d;1;2025-10-17 15:33:59;-1;ssh -o StrictHostKeyChecking=no -o ConnectTimeout=3 -p 2222 ot-user@10.0.0.11
+38ff4f91-4c27-439c-81bc-e7108ce4958d;1;2025-10-17 15:34:02;4;sudo -l 2>&1
+38ff4f91-4c27-439c-81bc-e7108ce4958d;1;2025-10-17 15:34:54;4;ls /home
+38ff4f91-4c27-439c-81bc-e7108ce4958d;1;2025-10-17 15:35:59;4;ls -la /usr/bin/rootshell/myShell 

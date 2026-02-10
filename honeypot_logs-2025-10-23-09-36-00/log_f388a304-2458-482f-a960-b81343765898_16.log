@@ -1,0 +1,2 @@
+docker_id;generation;full_time;service;command
+f388a304-2458-482f-a960-b81343765898;16;2025-10-16 18:42:39;-1;grep -RIn --color=never "m23dura2" /etc /opt /var 2>/dev/null | head -n 40

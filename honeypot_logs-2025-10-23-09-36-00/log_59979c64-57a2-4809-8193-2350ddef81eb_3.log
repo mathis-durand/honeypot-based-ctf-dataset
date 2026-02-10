@@ -1,0 +1,4 @@
+docker_id;generation;full_time;service;command
+59979c64-57a2-4809-8193-2350ddef81eb;3;2025-10-19 21:56:56;-1;# Test très court, affiche hostname, id, et sudo -l
+59979c64-57a2-4809-8193-2350ddef81eb;3;2025-10-19 21:56:56;-1;sshpass -p 'p@ssword' ssh -o StrictHostKeyChecking=no -o ConnectTimeout=6 -p 2222 ot-user@10.0.0.15 'printf "HOST: $(hostname)\nID: $(id)\n"; sudo -l'
+59979c64-57a2-4809-8193-2350ddef81eb;3;2025-10-19 21:57:09;-1;apt install sshpass

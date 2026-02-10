@@ -1,0 +1,74 @@
+docker_id;generation;full_time;service;command
+3672aacb-db7c-4ca5-91eb-3ed8ab2c1b2a;5;2025-10-15 10:18:11;-1;sudo su
+3672aacb-db7c-4ca5-91eb-3ed8ab2c1b2a;5;2025-10-15 10:18:28;-1;su ot-user
+3672aacb-db7c-4ca5-91eb-3ed8ab2c1b2a;5;2025-10-15 10:18:33;-1;sudo su ot-user
+3672aacb-db7c-4ca5-91eb-3ed8ab2c1b2a;5;2025-10-15 10:19:28;-1;ssh ot-user@10.0.0.11 -p 2222
+3672aacb-db7c-4ca5-91eb-3ed8ab2c1b2a;5;2025-10-15 10:31:03;-1;ssh -p 2222 ot-user@10.0.0.11
+3672aacb-db7c-4ca5-91eb-3ed8ab2c1b2a;5;2025-10-15 10:35:28;-1;ssh -p 2222 ot-user@10.0.0.12
+3672aacb-db7c-4ca5-91eb-3ed8ab2c1b2a;5;2025-10-15 10:37:03;-1;ssh -p 2222 ot-user@10.0.0.13
+3672aacb-db7c-4ca5-91eb-3ed8ab2c1b2a;5;2025-10-15 10:51:00;-1;rm -f /tmp/ssh_keys_10x && touch /tmp/ssh_keys_10x
+3672aacb-db7c-4ca5-91eb-3ed8ab2c1b2a;5;2025-10-15 10:51:00;-1;for i in {11..19}; do   K=$(ssh-keyscan -p 2222 10.0.0.$i 2>/dev/null | ssh-keygen -lf - 2>/dev/null || echo "NO_KEY");   echo "10.0.0.$i $K" | tee -a /tmp/ssh_keys_10x; done
+3672aacb-db7c-4ca5-91eb-3ed8ab2c1b2a;5;2025-10-15 10:51:53;-1;echo; echo "---- résumé des empreintes ----"
+3672aacb-db7c-4ca5-91eb-3ed8ab2c1b2a;5;2025-10-15 10:51:53;-1;awk '{print $2}' /tmp/ssh_keys_10x | sort | uniq -c | sed 's/^/count: /'
+3672aacb-db7c-4ca5-91eb-3ed8ab2c1b2a;5;2025-10-15 10:51:53;-1;echo; echo "---- détail complet ----"
+3672aacb-db7c-4ca5-91eb-3ed8ab2c1b2a;5;2025-10-15 10:51:53;-1;cat /tmp/ssh_keys_10x
+3672aacb-db7c-4ca5-91eb-3ed8ab2c1b2a;5;2025-10-15 10:37:09;0;ls
+3672aacb-db7c-4ca5-91eb-3ed8ab2c1b2a;5;2025-10-15 10:37:11;0;cat README
+3672aacb-db7c-4ca5-91eb-3ed8ab2c1b2a;5;2025-10-15 10:37:14;0;cd ../
+3672aacb-db7c-4ca5-91eb-3ed8ab2c1b2a;5;2025-10-15 10:37:15;0;ls
+3672aacb-db7c-4ca5-91eb-3ed8ab2c1b2a;5;2025-10-15 10:49:28;0;cd ghost/
+3672aacb-db7c-4ca5-91eb-3ed8ab2c1b2a;5;2025-10-15 10:49:32;0;cd ot-admin/
+3672aacb-db7c-4ca5-91eb-3ed8ab2c1b2a;5;2025-10-15 10:49:35;0;cd ot-user/
+3672aacb-db7c-4ca5-91eb-3ed8ab2c1b2a;5;2025-10-15 10:49:39;0;ls -la
+3672aacb-db7c-4ca5-91eb-3ed8ab2c1b2a;5;2025-10-15 10:49:46;0;cd ../skywalker/
+3672aacb-db7c-4ca5-91eb-3ed8ab2c1b2a;5;2025-10-15 10:49:59;0;cd ../
+3672aacb-db7c-4ca5-91eb-3ed8ab2c1b2a;5;2025-10-15 10:50:01;0;cd ubuntu/
+3672aacb-db7c-4ca5-91eb-3ed8ab2c1b2a;5;2025-10-15 10:50:04;0;cd zephyr
+3672aacb-db7c-4ca5-91eb-3ed8ab2c1b2a;5;2025-10-15 10:50:15;0;cd zyphyr-adm
+3672aacb-db7c-4ca5-91eb-3ed8ab2c1b2a;5;2025-10-15 10:50:19;0;cd zephyr-adm
+3672aacb-db7c-4ca5-91eb-3ed8ab2c1b2a;5;2025-10-15 10:50:24;0;cat nota-bene 
+3672aacb-db7c-4ca5-91eb-3ed8ab2c1b2a;5;2025-10-15 10:50:25;0;cat todo.md 
+3672aacb-db7c-4ca5-91eb-3ed8ab2c1b2a;5;2025-10-15 10:31:14;1;cat README
+3672aacb-db7c-4ca5-91eb-3ed8ab2c1b2a;5;2025-10-15 10:31:29;1;ls -la
+3672aacb-db7c-4ca5-91eb-3ed8ab2c1b2a;5;2025-10-15 10:31:35;1;cd ../
+3672aacb-db7c-4ca5-91eb-3ed8ab2c1b2a;5;2025-10-15 10:31:36;1;ls
+3672aacb-db7c-4ca5-91eb-3ed8ab2c1b2a;5;2025-10-15 10:31:42;1;cat todo.md 
+3672aacb-db7c-4ca5-91eb-3ed8ab2c1b2a;5;2025-10-15 10:31:51;1;ls -la
+3672aacb-db7c-4ca5-91eb-3ed8ab2c1b2a;5;2025-10-15 10:31:59;1;cat nota-bene 
+3672aacb-db7c-4ca5-91eb-3ed8ab2c1b2a;5;2025-10-15 10:32:06;1;cd admin/
+3672aacb-db7c-4ca5-91eb-3ed8ab2c1b2a;5;2025-10-15 10:32:08;1;ls
+3672aacb-db7c-4ca5-91eb-3ed8ab2c1b2a;5;2025-10-15 10:32:10;1;ls -l&
+3672aacb-db7c-4ca5-91eb-3ed8ab2c1b2a;5;2025-10-15 10:32:13;1;ls -la
+3672aacb-db7c-4ca5-91eb-3ed8ab2c1b2a;5;2025-10-15 10:32:16;1;cd ../
+3672aacb-db7c-4ca5-91eb-3ed8ab2c1b2a;5;2025-10-15 10:32:20;1;tree -la ./
+3672aacb-db7c-4ca5-91eb-3ed8ab2c1b2a;5;2025-10-15 10:32:29;1;ls -r -la ./
+3672aacb-db7c-4ca5-91eb-3ed8ab2c1b2a;5;2025-10-15 10:32:36;1;cd zephyr-adm/
+3672aacb-db7c-4ca5-91eb-3ed8ab2c1b2a;5;2025-10-15 10:32:52;1;cd ghost/
+3672aacb-db7c-4ca5-91eb-3ed8ab2c1b2a;5;2025-10-15 10:32:55;1;cd admin/
+3672aacb-db7c-4ca5-91eb-3ed8ab2c1b2a;5;2025-10-15 10:32:56;1;ls
+3672aacb-db7c-4ca5-91eb-3ed8ab2c1b2a;5;2025-10-15 10:33:00;1;cd ../
+3672aacb-db7c-4ca5-91eb-3ed8ab2c1b2a;5;2025-10-15 10:33:09;1;cd hacker
+3672aacb-db7c-4ca5-91eb-3ed8ab2c1b2a;5;2025-10-15 10:33:11;1;ls
+3672aacb-db7c-4ca5-91eb-3ed8ab2c1b2a;5;2025-10-15 10:33:14;1;cd ghost/
+3672aacb-db7c-4ca5-91eb-3ed8ab2c1b2a;5;2025-10-15 10:33:21;1;cd ot-admin
+3672aacb-db7c-4ca5-91eb-3ed8ab2c1b2a;5;2025-10-15 10:33:24;1;cd skywalker/
+3672aacb-db7c-4ca5-91eb-3ed8ab2c1b2a;5;2025-10-15 10:33:26;1;cd ubuntu/
+3672aacb-db7c-4ca5-91eb-3ed8ab2c1b2a;5;2025-10-15 10:33:28;1;cd user/
+3672aacb-db7c-4ca5-91eb-3ed8ab2c1b2a;5;2025-10-15 10:33:29;1;ls
+3672aacb-db7c-4ca5-91eb-3ed8ab2c1b2a;5;2025-10-15 10:33:30;1;ls -la
+3672aacb-db7c-4ca5-91eb-3ed8ab2c1b2a;5;2025-10-15 10:33:32;1;cd ../
+3672aacb-db7c-4ca5-91eb-3ed8ab2c1b2a;5;2025-10-15 10:33:34;1;cd zephyr
+3672aacb-db7c-4ca5-91eb-3ed8ab2c1b2a;5;2025-10-15 10:33:38;1;cd zephyr-adm/
+3672aacb-db7c-4ca5-91eb-3ed8ab2c1b2a;5;2025-10-15 10:35:39;7;ls
+3672aacb-db7c-4ca5-91eb-3ed8ab2c1b2a;5;2025-10-15 10:35:43;7;cat README
+3672aacb-db7c-4ca5-91eb-3ed8ab2c1b2a;5;2025-10-15 10:35:48;7;cd ../
+3672aacb-db7c-4ca5-91eb-3ed8ab2c1b2a;5;2025-10-15 10:35:49;7;ls
+3672aacb-db7c-4ca5-91eb-3ed8ab2c1b2a;5;2025-10-15 10:35:53;7;cat nota-bene 
+3672aacb-db7c-4ca5-91eb-3ed8ab2c1b2a;5;2025-10-15 10:35:55;7;cat todo.md 
+3672aacb-db7c-4ca5-91eb-3ed8ab2c1b2a;5;2025-10-15 10:36:15;7;cd ghost/
+3672aacb-db7c-4ca5-91eb-3ed8ab2c1b2a;5;2025-10-15 10:36:19;7;cd ot-admin/
+3672aacb-db7c-4ca5-91eb-3ed8ab2c1b2a;5;2025-10-15 10:36:24;7;cd skywalker/
+3672aacb-db7c-4ca5-91eb-3ed8ab2c1b2a;5;2025-10-15 10:36:32;7;cd ubuntu/
+3672aacb-db7c-4ca5-91eb-3ed8ab2c1b2a;5;2025-10-15 10:36:36;7;cd zephyr
+3672aacb-db7c-4ca5-91eb-3ed8ab2c1b2a;5;2025-10-15 10:36:40;7;cd zephyr-adm/
+3672aacb-db7c-4ca5-91eb-3ed8ab2c1b2a;5;2025-10-15 10:36:43;7;cd admin

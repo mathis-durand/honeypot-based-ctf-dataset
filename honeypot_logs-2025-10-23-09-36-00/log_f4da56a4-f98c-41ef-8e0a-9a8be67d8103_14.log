@@ -1,0 +1,14 @@
+docker_id;generation;full_time;service;command
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;14;2025-10-19 18:34:15;-1;ssh -p 2222 ot-user@10.0.0.11
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;14;2025-10-19 18:35:35;5;groups
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;14;2025-10-19 18:35:39;5;cat /etc/group
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;14;2025-10-19 18:35:51;5;ls /home
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;14;2025-10-19 18:36:01;5;cat /home/todo.md
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;14;2025-10-19 18:36:19;5;ls
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;14;2025-10-19 18:36:22;5;cat README 
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;14;2025-10-19 18:36:34;5;ls /home/*
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;14;2025-10-19 18:36:46;5;ls /temp
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;14;2025-10-19 18:36:52;5;ls
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;14;2025-10-19 18:37:10;5;ls //usr/bin/rootshell
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;14;2025-10-19 18:37:18;5;cat //usr/bin/rootshell/asroot.c
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;14;2025-10-19 18:37:26;5;crontab -l

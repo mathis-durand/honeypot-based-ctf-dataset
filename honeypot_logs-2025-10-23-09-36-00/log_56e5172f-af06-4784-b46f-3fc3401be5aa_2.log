@@ -1,0 +1,13 @@
+docker_id;generation;full_time;service;command
+56e5172f-af06-4784-b46f-3fc3401be5aa;2;2025-10-14 19:26:46;-1;nmap -sV -sC 10.0.0.11
+56e5172f-af06-4784-b46f-3fc3401be5aa;2;2025-10-14 19:27:40;-1;nmap -sV -sC 10.0.0.12
+56e5172f-af06-4784-b46f-3fc3401be5aa;2;2025-10-14 19:28:22;-1;nmap -sV -sC 10.0.0.13 > 13.txt
+56e5172f-af06-4784-b46f-3fc3401be5aa;2;2025-10-14 19:28:32;-1;cat 13.txt
+56e5172f-af06-4784-b46f-3fc3401be5aa;2;2025-10-14 19:29:21;-1;nmap -sV -sC 10.0.0.14 > 14.txt && cat 14.txt
+56e5172f-af06-4784-b46f-3fc3401be5aa;2;2025-10-14 19:29:53;-1;nmap -sV -sC 10.0.0.15 > 15.txt && cat 15.txt
+56e5172f-af06-4784-b46f-3fc3401be5aa;2;2025-10-14 19:30:27;-1;nmap -sV -sC 10.0.0.16 > 16.txt && cat 16.txt
+56e5172f-af06-4784-b46f-3fc3401be5aa;2;2025-10-14 19:30:55;-1;nmap -sV -sC 10.0.0.17 > 17.txt && cat 17.txt
+56e5172f-af06-4784-b46f-3fc3401be5aa;2;2025-10-14 19:31:14;-1;nmap -sV -sC 10.0.0.18 > 18.txt && cat 18.txt
+56e5172f-af06-4784-b46f-3fc3401be5aa;2;2025-10-14 19:31:34;-1;nmap -sV -sC 10.0.0.19 > 19.txt && cat 19.txt
+56e5172f-af06-4784-b46f-3fc3401be5aa;2;2025-10-14 19:33:08;-1;ssh -p 2222 -i ./Downloads/ssh-key-ctf ot-user@10.0.012
+56e5172f-af06-4784-b46f-3fc3401be5aa;2;2025-10-14 19:33:39;-1;ssh -p 2222 ot-user@10.0.0.12

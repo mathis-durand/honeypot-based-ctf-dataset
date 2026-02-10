@@ -1,0 +1,11 @@
+docker_id;generation;full_time;service;command
+ad19d61e-d7a1-4c69-8dd1-b588fca3808c;3;2025-10-15 18:03:44;7;ls
+ad19d61e-d7a1-4c69-8dd1-b588fca3808c;3;2025-10-15 18:05:23;7;cd /
+ad19d61e-d7a1-4c69-8dd1-b588fca3808c;3;2025-10-15 18:05:23;7;ls
+ad19d61e-d7a1-4c69-8dd1-b588fca3808c;3;2025-10-15 18:05:29;7;cd usr/bin/
+ad19d61e-d7a1-4c69-8dd1-b588fca3808c;3;2025-10-15 18:05:30;7;ls
+ad19d61e-d7a1-4c69-8dd1-b588fca3808c;3;2025-10-15 18:05:39;7;ls/root
+ad19d61e-d7a1-4c69-8dd1-b588fca3808c;3;2025-10-15 18:05:59;7;d 
+ad19d61e-d7a1-4c69-8dd1-b588fca3808c;3;2025-10-15 18:06:19;7;ls rootshell/asroot.c 
+ad19d61e-d7a1-4c69-8dd1-b588fca3808c;3;2025-10-15 18:07:00;7;cat /usr/bin/rootshell/asroot.c
+ad19d61e-d7a1-4c69-8dd1-b588fca3808c;3;2025-10-15 18:07:49;7;ls -l /usr/bin/rootshell/myShell

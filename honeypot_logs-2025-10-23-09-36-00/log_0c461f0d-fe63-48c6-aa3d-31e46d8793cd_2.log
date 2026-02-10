@@ -1,0 +1,7 @@
+docker_id;generation;full_time;service;command
+0c461f0d-fe63-48c6-aa3d-31e46d8793cd;2;2025-10-22 08:18:32;-1;$(echo "nbbmabp -p1-9999 10.0.0.11-19" | tr -d 'b')
+0c461f0d-fe63-48c6-aa3d-31e46d8793cd;2;2025-10-22 08:21:18;-1;$(echo "nbbmabp -p1-9999 -sV 10.0.0.11-19" | tr -d 'b')
+0c461f0d-fe63-48c6-aa3d-31e46d8793cd;2;2025-10-22 08:24:30;8;ls -la
+0c461f0d-fe63-48c6-aa3d-31e46d8793cd;2;2025-10-22 08:24:44;8;cd ..
+0c461f0d-fe63-48c6-aa3d-31e46d8793cd;2;2025-10-22 08:24:48;8;ls -la
+0c461f0d-fe63-48c6-aa3d-31e46d8793cd;2;2025-10-22 08:25:11;8;cat todo.md 

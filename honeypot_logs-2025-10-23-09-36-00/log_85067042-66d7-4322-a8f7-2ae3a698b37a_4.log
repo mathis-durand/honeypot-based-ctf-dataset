@@ -1,0 +1,2 @@
+docker_id;generation;full_time;service;command
+85067042-66d7-4322-a8f7-2ae3a698b37a;4;2025-10-14 11:56:00;-1;for i in $(seq 11 19); do echo -n "10.0.0.$i: "; ssh -o "PasswordAuthentication=no" -v ot-user@10.0.0.$i -p 2222 'exit' 2>&1 | grep "Authentications that can continue"; done

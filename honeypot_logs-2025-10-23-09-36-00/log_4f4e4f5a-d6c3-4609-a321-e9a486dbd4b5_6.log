@@ -1,0 +1,9 @@
+docker_id;generation;full_time;service;command
+4f4e4f5a-d6c3-4609-a321-e9a486dbd4b5;6;2025-10-21 23:36:06;-1;BANS=/tmp/ssh_banners.txt
+4f4e4f5a-d6c3-4609-a321-e9a486dbd4b5;6;2025-10-21 23:36:06;-1;> "$BANS"
+4f4e4f5a-d6c3-4609-a321-e9a486dbd4b5;6;2025-10-21 23:36:06;-1;while read -r H; do   L=$(timeout 0.7 bash -c "exec 3<>/dev/tcp/$H/22; head -n1 <&3; exec 3>&- 2>/dev/null" 2>/dev/null);   [ -n "$L" ] && printf "%-15s %s\n" "$H" "$L" | tee -a "$BANS"; done < /tmp/ssh_hosts.txt
+4f4e4f5a-d6c3-4609-a321-e9a486dbd4b5;6;2025-10-21 23:36:06;-1;echo; echo "[*] Bannières trouvées:"
+4f4e4f5a-d6c3-4609-a321-e9a486dbd4b5;6;2025-10-21 23:36:06;-1;column -t "$BANS" 2>/dev/null || cat "$BANS"
+4f4e4f5a-d6c3-4609-a321-e9a486dbd4b5;6;2025-10-21 23:36:19;-1;cut -d' ' -f2- "$BANS" | sort | uniq -c | sort -nr
+4f4e4f5a-d6c3-4609-a321-e9a486dbd4b5;6;2025-10-21 23:36:20;-1;# Puis retrouve l’IP correspondante:
+4f4e4f5a-d6c3-4609-a321-e9a486dbd4b5;6;2025-10-21 23:36:20;-1;while read -r CNT SIG; do   grep -F "$SIG" "$BANS"; done < <(cut -d' ' -f2- "$BANS" | sort | uniq -c | sort -nr | tail -n +1) | sed -n '1,50p'

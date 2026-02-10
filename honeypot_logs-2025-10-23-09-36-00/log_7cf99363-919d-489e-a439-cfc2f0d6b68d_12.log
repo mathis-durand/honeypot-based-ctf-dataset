@@ -1,0 +1,7 @@
+docker_id;generation;full_time;service;command
+7cf99363-919d-489e-a439-cfc2f0d6b68d;12;2025-10-14 11:55:15;3;sudo -l
+7cf99363-919d-489e-a439-cfc2f0d6b68d;12;2025-10-14 11:55:28;3;ssh -o StrictHostKeyChecking=no -p 2222 ghost@10.0.0.14
+7cf99363-919d-489e-a439-cfc2f0d6b68d;12;2025-10-14 11:55:49;3;ssh -o StrictHostKeyChecking=no -p 2222 skywalker@10.0.0.14
+7cf99363-919d-489e-a439-cfc2f0d6b68d;12;2025-10-14 11:56:21;3;ls -la ~/.ssh/
+7cf99363-919d-489e-a439-cfc2f0d6b68d;12;2025-10-14 11:56:25;3;cat ~/.ssh/authorized_keys
+7cf99363-919d-489e-a439-cfc2f0d6b68d;12;2025-10-14 11:56:28;3;cat /etc/ssh/sshd_config 2>/dev/null | grep -i "permit"

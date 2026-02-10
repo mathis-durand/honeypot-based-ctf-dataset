@@ -1,0 +1,6 @@
+docker_id;generation;full_time;service;command
+a33f3354-0bd7-4987-b173-b6508c260f2f;1;2025-10-19 13:06:24;-1;# quick identity + environment
+a33f3354-0bd7-4987-b173-b6508c260f2f;1;2025-10-19 13:06:24;-1;whoami; id; hostname; date; uptime
+a33f3354-0bd7-4987-b173-b6508c260f2f;1;2025-10-19 13:06:24;-1;# OS / kernel
+a33f3354-0bd7-4987-b173-b6508c260f2f;1;2025-10-19 13:06:24;-1;uname -a
+a33f3354-0bd7-4987-b173-b6508c260f2f;1;2025-10-19 13:06:24;-1;cat /etc/os-release 2>/dev/null || true

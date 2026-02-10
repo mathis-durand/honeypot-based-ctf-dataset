@@ -1,0 +1,6 @@
+docker_id;generation;full_time;service;command
+f383ec54-e2b6-4cfc-9582-7051b5b9ce75;5;2025-10-15 10:50:39;-1;echo $PATH
+f383ec54-e2b6-4cfc-9582-7051b5b9ce75;5;2025-10-15 10:51:14;-1;nobody1@bastion:~$ nmap -p 2222 10.0.0.11-19
+f383ec54-e2b6-4cfc-9582-7051b5b9ce75;5;2025-10-15 10:51:22;-1;nmap -p 2222 10.0.0.11-19
+f383ec54-e2b6-4cfc-9582-7051b5b9ce75;5;2025-10-15 10:52:08;-1;ssh -p2222 ot-user@10.0.0.11
+f383ec54-e2b6-4cfc-9582-7051b5b9ce75;5;2025-10-15 10:56:08;1;myshell *auto-alert*

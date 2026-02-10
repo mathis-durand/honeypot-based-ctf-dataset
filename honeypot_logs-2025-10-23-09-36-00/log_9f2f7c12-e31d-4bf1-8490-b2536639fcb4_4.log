@@ -1,0 +1,5 @@
+docker_id;generation;full_time;service;command
+9f2f7c12-e31d-4bf1-8490-b2536639fcb4;4;2025-10-22 00:54:07;-1;sudo -l
+9f2f7c12-e31d-4bf1-8490-b2536639fcb4;4;2025-10-22 01:04:06;0;id
+9f2f7c12-e31d-4bf1-8490-b2536639fcb4;4;2025-10-22 01:04:20;0;id; whoami; hostname
+9f2f7c12-e31d-4bf1-8490-b2536639fcb4;4;2025-10-22 01:04:41;0;cat /root/flag* 2>/dev/null || ls -la /root

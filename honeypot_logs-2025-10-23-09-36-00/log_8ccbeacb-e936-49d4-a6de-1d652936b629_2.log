@@ -1,0 +1,8 @@
+docker_id;generation;full_time;service;command
+8ccbeacb-e936-49d4-a6de-1d652936b629;2;2025-10-17 13:00:13;-1;ssh ot-user@10.0.0.12
+8ccbeacb-e936-49d4-a6de-1d652936b629;2;2025-10-17 13:00:46;6;ls 
+8ccbeacb-e936-49d4-a6de-1d652936b629;2;2025-10-17 13:00:51;6;ls *la
+8ccbeacb-e936-49d4-a6de-1d652936b629;2;2025-10-17 13:00:56;6;ls -la
+8ccbeacb-e936-49d4-a6de-1d652936b629;2;2025-10-17 13:01:02;6;cd /home
+8ccbeacb-e936-49d4-a6de-1d652936b629;2;2025-10-17 13:01:03;6;ls
+8ccbeacb-e936-49d4-a6de-1d652936b629;2;2025-10-17 13:01:06;6;df --block-size=1 --output=source,size,used,avail,target

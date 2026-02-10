@@ -1,0 +1,4 @@
+docker_id;generation;full_time;service;command
+98e6d631-c8ba-47b3-9df1-f4ffaf2cecad;2;2025-10-16 15:30:39;-1;ls
+98e6d631-c8ba-47b3-9df1-f4ffaf2cecad;2;2025-10-16 15:30:39;-1;ip a
+98e6d631-c8ba-47b3-9df1-f4ffaf2cecad;2;2025-10-16 15:30:44;-1;help

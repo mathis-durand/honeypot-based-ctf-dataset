@@ -1,0 +1,6 @@
+docker_id;generation;full_time;service;command
+c17b3b75-95aa-4e8c-a52c-9a0e1c2752cb;3;2025-10-17 22:18:19;6;cd /app/
+c17b3b75-95aa-4e8c-a52c-9a0e1c2752cb;3;2025-10-17 22:18:19;6;ls
+c17b3b75-95aa-4e8c-a52c-9a0e1c2752cb;3;2025-10-17 22:18:22;6;cd drones/
+c17b3b75-95aa-4e8c-a52c-9a0e1c2752cb;3;2025-10-17 22:18:23;6;ls
+c17b3b75-95aa-4e8c-a52c-9a0e1c2752cb;3;2025-10-17 22:18:38;6;/bin/rootshell/myShell 

@@ -1,0 +1,2 @@
+docker_id;generation;full_time;service;command
+7cf99363-919d-489e-a439-cfc2f0d6b68d;19;2025-10-14 11:59:20;3;cat /root/flag.txt; cat /flag.txt; cat ~/flag.txt; find / -name "flag*" -type f 2>/dev/null | xargs cat

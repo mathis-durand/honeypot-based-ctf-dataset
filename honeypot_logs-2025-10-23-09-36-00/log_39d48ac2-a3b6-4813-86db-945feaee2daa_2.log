@@ -1,0 +1,24 @@
+docker_id;generation;full_time;service;command
+39d48ac2-a3b6-4813-86db-945feaee2daa;2;2025-10-14 17:39:30;-1;echo "ça lague pas mal et régulièrement. Pretty anoying"
+39d48ac2-a3b6-4813-86db-945feaee2daa;2;2025-10-14 17:40:29;-1;echo "Hello from PIRAT\'); team! I hope you logged this =) "
+39d48ac2-a3b6-4813-86db-945feaee2daa;2;2025-10-14 17:43:54;-1;cd /tmp
+39d48ac2-a3b6-4813-86db-945feaee2daa;2;2025-10-14 17:44:13;-1;nmap -oA nampBastion 10.0.0.11-19 -p-
+39d48ac2-a3b6-4813-86db-945feaee2daa;2;2025-10-14 17:46:28;-1;nmap 10.0.0.18 -p 80 -A -oN nport80
+39d48ac2-a3b6-4813-86db-945feaee2daa;2;2025-10-14 17:47:16;-1;ssh -p 80 ot-user@10.0.0.12 
+39d48ac2-a3b6-4813-86db-945feaee2daa;2;2025-10-14 17:47:40;-1;ssh -p 80 ot-user@10.0.0.18
+39d48ac2-a3b6-4813-86db-945feaee2daa;2;2025-10-14 17:51:40;-1;ls
+39d48ac2-a3b6-4813-86db-945feaee2daa;2;2025-10-14 17:52:14;-1;cat nmapBastion.nmap
+39d48ac2-a3b6-4813-86db-945feaee2daa;2;2025-10-14 17:52:29;-1;cat nampBastion.nmap
+39d48ac2-a3b6-4813-86db-945feaee2daa;2;2025-10-14 18:03:52;-1;nmap ssh5_c.honeynet
+39d48ac2-a3b6-4813-86db-945feaee2daa;2;2025-10-14 17:31:54;6;cd /tmp
+39d48ac2-a3b6-4813-86db-945feaee2daa;2;2025-10-14 17:31:56;6;l
+39d48ac2-a3b6-4813-86db-945feaee2daa;2;2025-10-14 17:31:57;6;ll
+39d48ac2-a3b6-4813-86db-945feaee2daa;2;2025-10-14 17:36:56;6;exit
+39d48ac2-a3b6-4813-86db-945feaee2daa;2;2025-10-14 17:41:51;6;cd /tmp/p
+39d48ac2-a3b6-4813-86db-945feaee2daa;2;2025-10-14 17:42:15;6;cd /tmp
+39d48ac2-a3b6-4813-86db-945feaee2daa;2;2025-10-14 17:42:18;6;ls
+39d48ac2-a3b6-4813-86db-945feaee2daa;2;2025-10-14 17:42:23;6;./stmap 
+39d48ac2-a3b6-4813-86db-945feaee2daa;2;2025-10-14 17:42:53;6;./stmap -oA nmap_fromMachine 10.0.0.11-19 -p-
+39d48ac2-a3b6-4813-86db-945feaee2daa;2;2025-10-14 17:45:56;6;./stmap 10.0.0.18 -p 80 -A -oN nport80
+39d48ac2-a3b6-4813-86db-945feaee2daa;2;2025-10-14 17:48:06;8;ps aux
+39d48ac2-a3b6-4813-86db-945feaee2daa;2;2025-10-14 17:51:20;8;l

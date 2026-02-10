@@ -1,0 +1,13 @@
+docker_id;generation;full_time;service;command
+1f76849d-3309-4ae3-ad89-cc7d3ae1e39e;13;2025-10-19 17:06:22;-1;ls .ssh/
+1f76849d-3309-4ae3-ad89-cc7d3ae1e39e;13;2025-10-19 17:06:26;-1;cat .ssh/authorized_keys 
+1f76849d-3309-4ae3-ad89-cc7d3ae1e39e;13;2025-10-19 17:06:41;-1;cat /proc/net/arp 
+1f76849d-3309-4ae3-ad89-cc7d3ae1e39e;13;2025-10-19 17:06:47;-1;nmap -sn 10.0.0.1/24
+1f76849d-3309-4ae3-ad89-cc7d3ae1e39e;13;2025-10-19 17:07:17;-1;find / -name "id_ed25519" -o -name "*ed25519*"
+1f76849d-3309-4ae3-ad89-cc7d3ae1e39e;13;2025-10-19 17:07:22;-1;cat /etc/ssh/ssh_host_ed25519_key
+1f76849d-3309-4ae3-ad89-cc7d3ae1e39e;13;2025-10-19 17:07:28;-1;cat /etc/ssh/ssh_host_ed25519_key.pub
+1f76849d-3309-4ae3-ad89-cc7d3ae1e39e;13;2025-10-19 17:09:05;-1;ls -la .ssh/
+1f76849d-3309-4ae3-ad89-cc7d3ae1e39e;13;2025-10-19 17:09:08;-1;ls -la .ssh/.*
+1f76849d-3309-4ae3-ad89-cc7d3ae1e39e;13;2025-10-19 17:09:11;-1;ls -la .ssh/authorized_keys
+1f76849d-3309-4ae3-ad89-cc7d3ae1e39e;13;2025-10-19 17:09:26;-1;ssh -i .ssh/id_ed25519 -o StrictHostKeyChecking=no m23dura2@10.0.0.11
+1f76849d-3309-4ae3-ad89-cc7d3ae1e39e;13;2025-10-19 17:09:35;-1;find / -name "*.conf" -o -name "*.cfg" 2>/dev/null | xargs grep -l "ssh\|key" 2>/dev/null

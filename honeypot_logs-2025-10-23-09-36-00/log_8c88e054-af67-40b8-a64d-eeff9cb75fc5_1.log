@@ -1,0 +1,5 @@
+docker_id;generation;full_time;service;command
+8c88e054-af67-40b8-a64d-eeff9cb75fc5;1;2025-10-19 16:00:55;-1;# Scanner les hôtes pour trouver celle avec des ports différents
+8c88e054-af67-40b8-a64d-eeff9cb75fc5;1;2025-10-19 16:00:55;-1;for i in 11 12 13 14 15 16 17 18 19; do    echo "Host 10.0.0.$i:";    nmap -p- --min-rate 5000 10.0.0.$i 2>&1 | grep -E 'open' | wc -l;  done
+8c88e054-af67-40b8-a64d-eeff9cb75fc5;1;2025-10-19 16:01:15;-1;# La clé bastion est dans /tmp/bastion-key
+8c88e054-af67-40b8-a64d-eeff9cb75fc5;1;2025-10-19 16:01:15;-1;ssh -i /tmp/bastion-key -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null -p 2222 ot-user@10.0.0.15 'whoami'

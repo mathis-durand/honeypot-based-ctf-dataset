@@ -1,0 +1,2 @@
+docker_id;generation;full_time;service;command
+9d757ec7-38f5-4c0f-91c2-649b7b442220;10;2025-10-21 19:49:18;-1;ssh -p 2222 ot-user@10.0.0.14 /bin/bash

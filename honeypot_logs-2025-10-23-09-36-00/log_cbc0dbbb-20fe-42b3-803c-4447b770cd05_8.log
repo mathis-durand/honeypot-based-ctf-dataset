@@ -1,0 +1,2 @@
+docker_id;generation;full_time;service;command
+cbc0dbbb-20fe-42b3-803c-4447b770cd05;8;2025-10-15 17:16:58;-1;ssh -o BatchMode=no -p 2222 ot-user@10.0.0.11 'echo "===WHO==="; whoami; echo "===ID==="; id; echo "===UNAME==="; uname -a; echo "===OS-RELEASE==="; cat /etc/os-release 2>/dev/null || true; echo "===SSH PUB KEYS==="; stat -c "%n %y" /etc/ssh/ssh_host_*pub 2>/dev/null || true; echo "===LS HOME==="; ls -la ~ 2>/dev/null || true; echo "===CAT README==="; cat README || true; echo "===PS==="; ps aux --width 200 | head -n 40'

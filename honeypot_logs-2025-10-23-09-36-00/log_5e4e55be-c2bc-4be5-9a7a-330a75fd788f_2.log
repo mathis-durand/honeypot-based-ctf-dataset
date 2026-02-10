@@ -1,0 +1,3 @@
+docker_id;generation;full_time;service;command
+5e4e55be-c2bc-4be5-9a7a-330a75fd788f;2;2025-10-20 18:11:47;-1;mkdir -p ~/ctf_keys && cd ~/ctf_keys
+5e4e55be-c2bc-4be5-9a7a-330a75fd788f;2;2025-10-20 18:11:50;-1;rm -f all_keys.txt

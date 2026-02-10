@@ -1,0 +1,19 @@
+docker_id;generation;full_time;service;command
+a763db8f-f5f0-4ab5-af49-c9995cc724dc;1;2025-10-20 22:27:47;-1;ls
+a763db8f-f5f0-4ab5-af49-c9995cc724dc;1;2025-10-20 22:27:53;-1;ls -a
+a763db8f-f5f0-4ab5-af49-c9995cc724dc;1;2025-10-20 22:28:02;-1;cd .profile 
+a763db8f-f5f0-4ab5-af49-c9995cc724dc;1;2025-10-20 22:28:07;-1;cat .profile 
+a763db8f-f5f0-4ab5-af49-c9995cc724dc;1;2025-10-20 22:28:39;-1;cd .ssh
+a763db8f-f5f0-4ab5-af49-c9995cc724dc;1;2025-10-20 22:28:41;-1;ls -a
+a763db8f-f5f0-4ab5-af49-c9995cc724dc;1;2025-10-20 22:28:44;-1;cat authorized_keys 
+a763db8f-f5f0-4ab5-af49-c9995cc724dc;1;2025-10-20 22:30:50;-1;cd ..
+a763db8f-f5f0-4ab5-af49-c9995cc724dc;1;2025-10-20 22:31:09;-1;ls -a
+a763db8f-f5f0-4ab5-af49-c9995cc724dc;1;2025-10-20 22:31:13;-1;cd .ca
+a763db8f-f5f0-4ab5-af49-c9995cc724dc;1;2025-10-20 22:31:16;-1;cd .cache
+a763db8f-f5f0-4ab5-af49-c9995cc724dc;1;2025-10-20 22:31:17;-1;ls
+a763db8f-f5f0-4ab5-af49-c9995cc724dc;1;2025-10-20 22:31:18;-1;ls -a
+a763db8f-f5f0-4ab5-af49-c9995cc724dc;1;2025-10-20 22:31:21;-1;cat motd.legal-displayed 
+a763db8f-f5f0-4ab5-af49-c9995cc724dc;1;2025-10-20 22:31:23;-1;cd ..
+a763db8f-f5f0-4ab5-af49-c9995cc724dc;1;2025-10-20 22:31:24;-1;ls
+a763db8f-f5f0-4ab5-af49-c9995cc724dc;1;2025-10-20 22:31:26;-1;ls -a
+a763db8f-f5f0-4ab5-af49-c9995cc724dc;1;2025-10-20 22:31:34;-1;cat .bash_logout 

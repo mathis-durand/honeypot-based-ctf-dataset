@@ -1,0 +1,24 @@
+docker_id;generation;full_time;service;command
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;10;2025-10-19 18:26:17;-1;ls /usr/bin/
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;10;2025-10-19 18:28:18;7;cat /usr/bin/rootshell/asroot.c
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;10;2025-10-19 18:28:32;7;getcap -r / 
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;10;2025-10-19 18:28:41;7;find / -writable | head -20
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;10;2025-10-19 18:28:47;7;ps aux
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;10;2025-10-19 18:28:58;7;ls -la /app
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;10;2025-10-19 18:29:04;7;cat ls -la /app/*
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;10;2025-10-19 18:29:14;7;cat /app/*
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;10;2025-10-19 18:29:19;7;ls /app/*
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;10;2025-10-19 18:29:34;7;ls -larth /app/*
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;10;2025-10-19 18:30:19;7;whoami && id
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;10;2025-10-19 18:30:19;7;id
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;10;2025-10-19 18:31:00;7;cd /app/ssh
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;10;2025-10-19 18:31:00;7;ls
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;10;2025-10-19 18:31:05;7;ls banners
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;10;2025-10-19 18:31:08;7;ls banners/ssh 
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;10;2025-10-19 18:31:12;7;cat banners/ssh
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;10;2025-10-19 18:31:13;7;ls
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;10;2025-10-19 18:31:16;7;cat *
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;10;2025-10-19 18:31:26;7;ls -la /app/ssh/update-date.py
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;10;2025-10-19 18:31:30;7;ls -la /app/ssh/pam.d_sshd
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;10;2025-10-19 18:31:33;7;ls -la /app/ssh/banners/
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;10;2025-10-19 18:31:37;7;ps aux | grep python

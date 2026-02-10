@@ -1,0 +1,9 @@
+docker_id;generation;full_time;service;command
+42dadc9f-a547-4847-aa39-706236bcc85c;5;2025-10-14 08:54:45;1;ls
+42dadc9f-a547-4847-aa39-706236bcc85c;5;2025-10-14 08:54:47;1;cat README 
+42dadc9f-a547-4847-aa39-706236bcc85c;5;2025-10-14 08:54:51;1;ls /home
+42dadc9f-a547-4847-aa39-706236bcc85c;5;2025-10-14 08:54:54;1;ls /app
+42dadc9f-a547-4847-aa39-706236bcc85c;5;2025-10-14 08:55:06;1;ls -lah /home/
+42dadc9f-a547-4847-aa39-706236bcc85c;5;2025-10-14 08:55:27;1;cat /home/nota-bene 
+42dadc9f-a547-4847-aa39-706236bcc85c;5;2025-10-14 08:55:35;1;cat /home/todo.md 
+42dadc9f-a547-4847-aa39-706236bcc85c;5;2025-10-14 08:56:05;1;netstat

@@ -1,0 +1,11 @@
+docker_id;generation;full_time;service;command
+bb46aaec-dd05-4201-a12f-300332fb18aa;1;2025-10-13 20:01:46;-1;sh -p 2222 10.0.0.11
+bb46aaec-dd05-4201-a12f-300332fb18aa;1;2025-10-13 20:02:03;-1;sh -p 2222 ot-user@10.0.0.11
+bb46aaec-dd05-4201-a12f-300332fb18aa;1;2025-10-13 20:02:24;7;sudo -l
+bb46aaec-dd05-4201-a12f-300332fb18aa;1;2025-10-13 20:02:32;7;ls
+bb46aaec-dd05-4201-a12f-300332fb18aa;1;2025-10-13 20:02:36;7;cat README 
+bb46aaec-dd05-4201-a12f-300332fb18aa;1;2025-10-13 20:02:43;7;ls /usr/share/
+bb46aaec-dd05-4201-a12f-300332fb18aa;1;2025-10-13 20:02:51;7;ls /usr/share/*
+bb46aaec-dd05-4201-a12f-300332fb18aa;1;2025-10-13 20:02:54;7;tree
+bb46aaec-dd05-4201-a12f-300332fb18aa;1;2025-10-13 20:03:24;7;find
+bb46aaec-dd05-4201-a12f-300332fb18aa;1;2025-10-13 20:04:10;7;find / -perm -u=s -type f 2>/dev/null

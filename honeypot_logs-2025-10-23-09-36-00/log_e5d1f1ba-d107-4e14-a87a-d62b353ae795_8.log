@@ -1,0 +1,2 @@
+docker_id;generation;full_time;service;command
+e5d1f1ba-d107-4e14-a87a-d62b353ae795;8;2025-10-16 17:16:55;0;ip -br a | head -n 1

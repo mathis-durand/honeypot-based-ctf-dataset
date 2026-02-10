@@ -1,0 +1,6 @@
+docker_id;generation;full_time;service;command
+042db029-4181-44c9-b41f-a9c23d07e4d8;12;2025-10-13 17:10:09;-1;ssh ot-user@10.0.0.11
+042db029-4181-44c9-b41f-a9c23d07e4d8;12;2025-10-13 17:16:24;4;ssh -p 33843 -i ./ssh-key-ctf nobody1@challenges.challenge-ecw.e
+042db029-4181-44c9-b41f-a9c23d07e4d8;12;2025-10-13 17:16:37;4;IFS= read -r p1 < /proc/1/comm 2>/dev/null
+042db029-4181-44c9-b41f-a9c23d07e4d8;12;2025-10-13 17:16:37;4;IFS= read -r p1cmd < /proc/1/cmdline 2>/dev/null
+042db029-4181-44c9-b41f-a9c23d07e4d8;12;2025-10-13 17:16:37;4;printf 'p1=%s\np1cmd=%s\n' "$p1" "${p1cmd//%/ }"

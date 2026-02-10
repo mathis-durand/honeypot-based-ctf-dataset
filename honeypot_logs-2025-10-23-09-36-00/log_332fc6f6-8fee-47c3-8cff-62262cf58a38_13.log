@@ -1,0 +1,8 @@
+docker_id;generation;full_time;service;command
+332fc6f6-8fee-47c3-8cff-62262cf58a38;13;2025-10-19 17:00:02;-1;nmap ls
+332fc6f6-8fee-47c3-8cff-62262cf58a38;13;2025-10-19 17:00:07;-1;nmap 10.0.0.11-19
+332fc6f6-8fee-47c3-8cff-62262cf58a38;13;2025-10-19 17:00:54;8;printenv
+332fc6f6-8fee-47c3-8cff-62262cf58a38;13;2025-10-19 17:01:17;8;ls /usr/local/sbin
+332fc6f6-8fee-47c3-8cff-62262cf58a38;13;2025-10-19 17:01:20;8;ls /usr/local/bin
+332fc6f6-8fee-47c3-8cff-62262cf58a38;13;2025-10-19 17:01:25;8;ls /usr/sbin
+332fc6f6-8fee-47c3-8cff-62262cf58a38;13;2025-10-19 17:02:04;8;ls /usr/bin

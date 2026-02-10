@@ -1,0 +1,5 @@
+docker_id;generation;full_time;service;command
+4279839c-d6e4-471d-bb58-f785a6aaf377;1;2025-10-20 21:58:56;-1;exit
+4279839c-d6e4-471d-bb58-f785a6aaf377;1;2025-10-20 22:01:07;-1;ls
+4279839c-d6e4-471d-bb58-f785a6aaf377;1;2025-10-20 22:01:14;-1;ls -halt
+4279839c-d6e4-471d-bb58-f785a6aaf377;1;2025-10-20 22:01:20;-1;cat .bashrc 

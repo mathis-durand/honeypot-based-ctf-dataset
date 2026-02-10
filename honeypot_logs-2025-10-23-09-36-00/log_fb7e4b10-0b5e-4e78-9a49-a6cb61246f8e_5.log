@@ -1,0 +1,2 @@
+docker_id;generation;full_time;service;command
+fb7e4b10-0b5e-4e78-9a49-a6cb61246f8e;5;2025-10-14 13:25:54;-1;find / -type -f -name "*git" 2>/dev/null

@@ -1,0 +1,4 @@
+docker_id;generation;full_time;service;command
+caa5c464-fd28-4afa-a85d-0f54f38c6d77;3;2025-10-17 14:18:26;-1;ssh -vvv ot-user@10.0.0.11
+caa5c464-fd28-4afa-a85d-0f54f38c6d77;3;2025-10-17 14:18:35;-1;ssh -vvv ot-user@10.0.0.12
+caa5c464-fd28-4afa-a85d-0f54f38c6d77;3;2025-10-17 14:21:04;2;ssh-keyscan -p 2222 -T 5 -t rsa,ecdsa,ed25519 10.0.0.12 2>/dev/null | ssh-keygen -lf -

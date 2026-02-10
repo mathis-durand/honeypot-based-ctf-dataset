@@ -1,0 +1,3 @@
+docker_id;generation;full_time;service;command
+78046441-82fe-45db-8128-bd801ae26780;9;2025-10-21 16:56:45;-1;ls -la /home || cat /etc/passwd | egrep -v 'nologin|false' | tail -n +1
+78046441-82fe-45db-8128-bd801ae26780;9;2025-10-21 16:57:00;-1;ls -la /etc/ssh || true

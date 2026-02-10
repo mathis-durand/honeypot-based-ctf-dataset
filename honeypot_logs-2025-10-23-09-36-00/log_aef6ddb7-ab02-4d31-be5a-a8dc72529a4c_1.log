@@ -1,0 +1,6 @@
+docker_id;generation;full_time;service;command
+aef6ddb7-ab02-4d31-be5a-a8dc72529a4c;1;2025-10-16 20:47:39;-1;exit
+aef6ddb7-ab02-4d31-be5a-a8dc72529a4c;1;2025-10-16 20:50:12;1;ls -la /home/
+aef6ddb7-ab02-4d31-be5a-a8dc72529a4c;1;2025-10-16 20:50:14;1;ls -la /home/admin
+aef6ddb7-ab02-4d31-be5a-a8dc72529a4c;1;2025-10-16 20:50:18;1;cat /home/admin/.profile
+aef6ddb7-ab02-4d31-be5a-a8dc72529a4c;1;2025-10-16 20:50:23;1;cat /home/admin/.bashrc

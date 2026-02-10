@@ -1,0 +1,23 @@
+docker_id;generation;full_time;service;command
+4aa2a170-5325-40aa-bdb1-f33d427aee73;3;2025-10-21 18:50:14;-1;ssh -p 2222 ot-user@10.0.0.11
+4aa2a170-5325-40aa-bdb1-f33d427aee73;3;2025-10-21 19:01:57;-1;ssh -p 2222 ot-user@10.0.0.18
+4aa2a170-5325-40aa-bdb1-f33d427aee73;3;2025-10-21 19:06:00;4;ls -la /etc/cron*
+4aa2a170-5325-40aa-bdb1-f33d427aee73;3;2025-10-21 19:07:01;4;sudo -l
+4aa2a170-5325-40aa-bdb1-f33d427aee73;3;2025-10-21 19:07:25;4;ls /
+4aa2a170-5325-40aa-bdb1-f33d427aee73;3;2025-10-21 19:07:29;4;ls -al /
+4aa2a170-5325-40aa-bdb1-f33d427aee73;3;2025-10-21 19:07:35;4;ls -al /home
+4aa2a170-5325-40aa-bdb1-f33d427aee73;3;2025-10-21 19:10:59;4;cat /home/todo.md
+4aa2a170-5325-40aa-bdb1-f33d427aee73;3;2025-10-21 19:11:38;4;ls -al /home/ot-user
+4aa2a170-5325-40aa-bdb1-f33d427aee73;3;2025-10-21 19:11:50;4;cat /home/ot-user/REA
+4aa2a170-5325-40aa-bdb1-f33d427aee73;3;2025-10-21 19:12:21;4;ls -al /home/nota-bene
+4aa2a170-5325-40aa-bdb1-f33d427aee73;3;2025-10-21 19:12:29;4;cat /home/nota-bene
+4aa2a170-5325-40aa-bdb1-f33d427aee73;3;2025-10-21 19:12:53;4;ls -al /home/ghost
+4aa2a170-5325-40aa-bdb1-f33d427aee73;3;2025-10-21 19:13:27;4;ls -al /home/ot-user/.ssh
+4aa2a170-5325-40aa-bdb1-f33d427aee73;3;2025-10-21 19:13:33;4;ls -al /home/ot-user/.cache
+4aa2a170-5325-40aa-bdb1-f33d427aee73;3;2025-10-21 19:14:13;4;cat /etc/sudoers
+4aa2a170-5325-40aa-bdb1-f33d427aee73;3;2025-10-21 19:14:33;4;ll /etc/sudoers
+4aa2a170-5325-40aa-bdb1-f33d427aee73;3;2025-10-21 19:14:44;4;ll /etc
+4aa2a170-5325-40aa-bdb1-f33d427aee73;3;2025-10-21 19:15:43;4;ll /etc/update-motd.d/
+4aa2a170-5325-40aa-bdb1-f33d427aee73;3;2025-10-21 19:16:09;4;ll /etc/sudoers.d/
+4aa2a170-5325-40aa-bdb1-f33d427aee73;3;2025-10-21 19:16:17;4;cat /etc/sudoers.d/README 
+4aa2a170-5325-40aa-bdb1-f33d427aee73;3;2025-10-21 19:16:43;4;getcap -r / 2>/dev/null

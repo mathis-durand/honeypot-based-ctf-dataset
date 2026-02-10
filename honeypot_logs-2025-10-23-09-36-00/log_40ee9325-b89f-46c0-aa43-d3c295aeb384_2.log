@@ -1,0 +1,8 @@
+docker_id;generation;full_time;service;command
+40ee9325-b89f-46c0-aa43-d3c295aeb384;2;2025-10-14 22:27:17;-1;ls -la /bin
+40ee9325-b89f-46c0-aa43-d3c295aeb384;2;2025-10-14 22:27:19;-1;ls -la /bin/
+40ee9325-b89f-46c0-aa43-d3c295aeb384;2;2025-10-14 22:27:45;8;ls -la
+40ee9325-b89f-46c0-aa43-d3c295aeb384;2;2025-10-14 22:27:50;8;cat README 
+40ee9325-b89f-46c0-aa43-d3c295aeb384;2;2025-10-14 22:27:51;8;cd ..
+40ee9325-b89f-46c0-aa43-d3c295aeb384;2;2025-10-14 22:27:52;8;ls -la
+40ee9325-b89f-46c0-aa43-d3c295aeb384;2;2025-10-14 22:28:02;8;cat ubuntu/.bashrc

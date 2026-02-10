@@ -1,0 +1,11 @@
+docker_id;generation;full_time;service;command
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;1;2025-10-19 18:08:21;-1;nmap -sn 10.0.0.1/24
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;1;2025-10-19 18:09:08;-1;cat /tmp/bastion-key
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;1;2025-10-19 18:09:18;-1;ls /tmp
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;1;2025-10-19 18:09:40;-1;ls /app/
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;1;2025-10-19 18:09:44;-1;ls /app/lobby/
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;1;2025-10-19 18:09:50;-1;ls /app/lobby/ssh-key-drone 
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;1;2025-10-19 18:10:40;-1;ssh 10.0.0.5 -p 222
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;1;2025-10-19 18:11:37;-1;ls /Dev
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;1;2025-10-19 18:11:39;-1;ls /dev
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;1;2025-10-19 18:11:49;-1;ls /dev/null 

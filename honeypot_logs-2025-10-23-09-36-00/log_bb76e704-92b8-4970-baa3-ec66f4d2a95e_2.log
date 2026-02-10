@@ -1,0 +1,7 @@
+docker_id;generation;full_time;service;command
+bb76e704-92b8-4970-baa3-ec66f4d2a95e;2;2025-10-20 14:21:38;-1;nmap -p 80 10.0.0.11/24
+bb76e704-92b8-4970-baa3-ec66f4d2a95e;2;2025-10-20 14:22:02;-1;nmap -p 80 10.0.0.11/24 --open
+bb76e704-92b8-4970-baa3-ec66f4d2a95e;2;2025-10-20 14:22:17;-1;nmap 10.0.0.11/24 --open
+bb76e704-92b8-4970-baa3-ec66f4d2a95e;2;2025-10-20 14:22:48;-1;ssh ot-user@10.0.0.11
+bb76e704-92b8-4970-baa3-ec66f4d2a95e;2;2025-10-20 14:22:52;-1;ssh ot-user@10.0.0.11 -p 2222
+bb76e704-92b8-4970-baa3-ec66f4d2a95e;2;2025-10-20 14:23:06;0;/bin/rootshell/myShell 

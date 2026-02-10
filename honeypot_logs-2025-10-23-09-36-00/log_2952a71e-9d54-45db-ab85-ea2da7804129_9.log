@@ -1,0 +1,7 @@
+docker_id;generation;full_time;service;command
+2952a71e-9d54-45db-ab85-ea2da7804129;9;2025-10-20 19:33:41;-1;nmap -sT --top-ports 10000 -T3 --open 10.0.0.11-19
+2952a71e-9d54-45db-ab85-ea2da7804129;9;2025-10-20 19:39:19;5;id ot-admin
+2952a71e-9d54-45db-ab85-ea2da7804129;9;2025-10-20 19:40:03;5;id zephyr
+2952a71e-9d54-45db-ab85-ea2da7804129;9;2025-10-20 19:40:16;5;id ot-user
+2952a71e-9d54-45db-ab85-ea2da7804129;9;2025-10-20 19:41:25;5;getent group 1001
+2952a71e-9d54-45db-ab85-ea2da7804129;9;2025-10-20 19:42:26;5;find / -group 1001 -type f -writable -ls 2>/dev/null

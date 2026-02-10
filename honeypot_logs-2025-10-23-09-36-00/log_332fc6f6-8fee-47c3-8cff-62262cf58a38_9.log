@@ -1,0 +1,7 @@
+docker_id;generation;full_time;service;command
+332fc6f6-8fee-47c3-8cff-62262cf58a38;9;2025-10-19 16:21:36;-1;nmap 10.0.0.11-19
+332fc6f6-8fee-47c3-8cff-62262cf58a38;9;2025-10-19 16:21:46;-1;ssh ot-user@10.0.0.19 -p 222
+332fc6f6-8fee-47c3-8cff-62262cf58a38;9;2025-10-19 16:22:01;8;ls /sys/class/net
+332fc6f6-8fee-47c3-8cff-62262cf58a38;9;2025-10-19 16:22:08;8;cd /tmp
+332fc6f6-8fee-47c3-8cff-62262cf58a38;9;2025-10-19 16:22:09;8;cat > foo.py
+332fc6f6-8fee-47c3-8cff-62262cf58a38;9;2025-10-19 16:23:07;8;python3 foo.py exploit -T 10.0.0.19 -p 2222 -n eth0

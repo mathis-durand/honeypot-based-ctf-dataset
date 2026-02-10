@@ -1,0 +1,5 @@
+docker_id;generation;full_time;service;command
+f388a304-2458-482f-a960-b81343765898;11;2025-10-16 18:33:20;-1;clear
+f388a304-2458-482f-a960-b81343765898;11;2025-10-16 18:33:21;-1;env | grep -i SSH || echo "pas de variable SSH visible"
+f388a304-2458-482f-a960-b81343765898;11;2025-10-16 18:33:26;-1;echo "$SSH_AUTH_SOCK" || echo "SSH_AUTH_SOCK non défini"
+f388a304-2458-482f-a960-b81343765898;11;2025-10-16 18:33:35;-1;ls -la /tmp | sed -n '1,200p'

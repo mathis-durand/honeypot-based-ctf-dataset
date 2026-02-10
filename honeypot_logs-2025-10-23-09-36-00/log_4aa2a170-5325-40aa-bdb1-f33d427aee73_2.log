@@ -1,0 +1,13 @@
+docker_id;generation;full_time;service;command
+4aa2a170-5325-40aa-bdb1-f33d427aee73;2;2025-10-21 18:50:14;-1;ssh -p 2222 ot-user@10.0.0.11
+4aa2a170-5325-40aa-bdb1-f33d427aee73;2;2025-10-21 19:04:14;4;find / -perm -4000 -type f
+4aa2a170-5325-40aa-bdb1-f33d427aee73;2;2025-10-21 18:50:34;7;ll /usr/bin
+4aa2a170-5325-40aa-bdb1-f33d427aee73;2;2025-10-21 18:51:52;7;ps-ef
+4aa2a170-5325-40aa-bdb1-f33d427aee73;2;2025-10-21 18:52:21;7;ps -ef
+4aa2a170-5325-40aa-bdb1-f33d427aee73;2;2025-10-21 18:53:54;7;ps -ef | md5
+4aa2a170-5325-40aa-bdb1-f33d427aee73;2;2025-10-21 18:54:25;7;ps -ef | sha256
+4aa2a170-5325-40aa-bdb1-f33d427aee73;2;2025-10-21 18:55:12;7;ps -ef | shasum
+4aa2a170-5325-40aa-bdb1-f33d427aee73;2;2025-10-21 18:55:29;7;ll /usr/bin | shasum
+4aa2a170-5325-40aa-bdb1-f33d427aee73;2;2025-10-21 18:58:03;7;ps -ef | shasum
+4aa2a170-5325-40aa-bdb1-f33d427aee73;2;2025-10-21 18:58:21;7;ps -ef
+4aa2a170-5325-40aa-bdb1-f33d427aee73;2;2025-10-21 19:00:12;7;ps -eo command

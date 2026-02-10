@@ -1,0 +1,5 @@
+docker_id;generation;full_time;service;command
+030190bf-2692-4a33-bfe9-323dcb4ecb38;2;2025-10-15 09:13:29;-1;ping -c 1 10.0.0.11  # Teste une par une, ou boucle : for i in {11..19}; do ping -c 1 10.0.0.$i && echo "OK"; done
+030190bf-2692-4a33-bfe9-323dcb4ecb38;2;2025-10-15 09:13:45;-1;nmap -p 2222 10.0.0.11-19
+030190bf-2692-4a33-bfe9-323dcb4ecb38;2;2025-10-15 09:15:54;-1;sudo -l
+030190bf-2692-4a33-bfe9-323dcb4ecb38;2;2025-10-15 09:17:00;-1;find / -perm -u=s 2>/dev/null

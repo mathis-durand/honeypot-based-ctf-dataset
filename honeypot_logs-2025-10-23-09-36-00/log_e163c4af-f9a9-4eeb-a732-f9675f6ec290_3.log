@@ -1,0 +1,7 @@
+docker_id;generation;full_time;service;command
+e163c4af-f9a9-4eeb-a732-f9675f6ec290;3;2025-10-14 16:59:14;-1;nmap -sV 10.0.0.0/8
+e163c4af-f9a9-4eeb-a732-f9675f6ec290;3;2025-10-14 16:59:21;-1;nmap -sV 10.0.0.0/24
+e163c4af-f9a9-4eeb-a732-f9675f6ec290;3;2025-10-14 17:01:27;-1;ssh -p 2222 ot-user@10.0.0.11:p@ssword
+e163c4af-f9a9-4eeb-a732-f9675f6ec290;3;2025-10-14 17:01:31;-1;ssh -p 2222 ot-user@10.0.0.11
+e163c4af-f9a9-4eeb-a732-f9675f6ec290;3;2025-10-14 17:09:24;5;ls
+e163c4af-f9a9-4eeb-a732-f9675f6ec290;3;2025-10-14 17:09:43;5;cp /logs/command_history.log test.log

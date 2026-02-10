@@ -1,0 +1,6 @@
+docker_id;generation;full_time;service;command
+145d7040-aed7-4d5f-98f4-48ac6b3ad3c1;4;2025-10-14 10:56:25;-1;sudo -l
+145d7040-aed7-4d5f-98f4-48ac6b3ad3c1;4;2025-10-14 10:57:53;-1;id
+145d7040-aed7-4d5f-98f4-48ac6b3ad3c1;4;2025-10-14 10:57:56;-1;ls -la
+145d7040-aed7-4d5f-98f4-48ac6b3ad3c1;4;2025-10-14 10:58:00;-1;ps aux
+145d7040-aed7-4d5f-98f4-48ac6b3ad3c1;4;2025-10-14 10:59:19;-1;history

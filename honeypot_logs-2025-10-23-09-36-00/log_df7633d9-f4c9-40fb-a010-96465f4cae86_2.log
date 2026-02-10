@@ -1,0 +1,4 @@
+docker_id;generation;full_time;service;command
+df7633d9-f4c9-40fb-a010-96465f4cae86;2;2025-10-19 15:01:49;-1;ls
+df7633d9-f4c9-40fb-a010-96465f4cae86;2;2025-10-19 15:01:51;-1;ls -la
+df7633d9-f4c9-40fb-a010-96465f4cae86;2;2025-10-19 15:01:58;-1;cat .bash

@@ -1,0 +1,16 @@
+docker_id;generation;full_time;service;command
+a9f9ef8c-8ee3-4a22-bf49-6100e2a8f075;2;2025-10-21 19:54:35;-1;ssh ot-user@10.0.0.14
+a9f9ef8c-8ee3-4a22-bf49-6100e2a8f075;2;2025-10-21 19:54:41;-1;cd /app/
+a9f9ef8c-8ee3-4a22-bf49-6100e2a8f075;2;2025-10-21 19:55:18;-1;ssh -p 34535 -i lobby/ssh-key-drone ot-user@10.0.0.14
+a9f9ef8c-8ee3-4a22-bf49-6100e2a8f075;2;2025-10-21 19:55:23;-1;ssh -p 34535 -i lobby/ssh-key-drone ot-user@10.0.0.15
+a9f9ef8c-8ee3-4a22-bf49-6100e2a8f075;2;2025-10-21 19:55:25;-1;ssh -p 34535 -i lobby/ssh-key-drone ot-user@10.0.0.16
+a9f9ef8c-8ee3-4a22-bf49-6100e2a8f075;2;2025-10-21 19:55:27;-1;ssh -p 34535 -i lobby/ssh-key-drone ot-user@10.0.0.17
+a9f9ef8c-8ee3-4a22-bf49-6100e2a8f075;2;2025-10-21 19:55:30;-1;ssh -p 34535 -i lobby/ssh-key-drone ot-user@10.0.0.18
+a9f9ef8c-8ee3-4a22-bf49-6100e2a8f075;2;2025-10-21 19:55:33;-1;ssh -p 34535 -i lobby/ssh-key-drone ot-user@10.0.0.19
+a9f9ef8c-8ee3-4a22-bf49-6100e2a8f075;2;2025-10-21 19:55:40;-1;ssh -p 34535 -i lobby/ssh-key-drone ot-user@10.0.0.11
+a9f9ef8c-8ee3-4a22-bf49-6100e2a8f075;2;2025-10-21 19:56:08;1;ls
+a9f9ef8c-8ee3-4a22-bf49-6100e2a8f075;2;2025-10-21 19:56:11;1;cat README 
+a9f9ef8c-8ee3-4a22-bf49-6100e2a8f075;2;2025-10-21 19:56:19;1;ls
+a9f9ef8c-8ee3-4a22-bf49-6100e2a8f075;2;2025-10-21 19:56:24;1;cd ..
+a9f9ef8c-8ee3-4a22-bf49-6100e2a8f075;2;2025-10-21 19:56:26;1;ls
+a9f9ef8c-8ee3-4a22-bf49-6100e2a8f075;2;2025-10-21 19:56:48;1;ls -la

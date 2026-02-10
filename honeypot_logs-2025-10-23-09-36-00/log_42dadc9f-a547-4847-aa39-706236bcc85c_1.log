@@ -1,0 +1,3 @@
+docker_id;generation;full_time;service;command
+42dadc9f-a547-4847-aa39-706236bcc85c;1;2025-10-14 08:47:30;-1;ls
+42dadc9f-a547-4847-aa39-706236bcc85c;1;2025-10-14 08:47:35;-1;cat /etc/passwd

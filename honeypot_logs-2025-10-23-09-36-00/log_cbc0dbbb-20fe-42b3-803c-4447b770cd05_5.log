@@ -1,0 +1,6 @@
+docker_id;generation;full_time;service;command
+cbc0dbbb-20fe-42b3-803c-4447b770cd05;5;2025-10-15 17:07:17;-1;exit
+cbc0dbbb-20fe-42b3-803c-4447b770cd05;5;2025-10-15 17:09:27;-1;# buat direktori kerja sementara
+cbc0dbbb-20fe-42b3-803c-4447b770cd05;5;2025-10-15 17:09:27;-1;mkdir -p /tmp/sshkeys && cd /tmp/sshkeys
+cbc0dbbb-20fe-42b3-803c-4447b770cd05;5;2025-10-15 17:09:27;-1;# 2 address pertama — very low-noise
+cbc0dbbb-20fe-42b3-803c-4447b770cd05;5;2025-10-15 17:09:27;-1;for i in 11 12; do   echo "=== 10.0.0.$i ===" > 10.0.0.$i.key;   ssh-keyscan -p 2222 -T 3 10.0.0.$i 2>/dev/null >> 10.0.0.$i.key || echo "NO-KEY" >> 10.0.0.$i.key;   echo "-- fingerprint --";   ssh-keygen -lf 10.0.0.$i.key 2>/dev/null || cat 10.0.0.$i.key;   echo;   sleep 15; done

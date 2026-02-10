@@ -1,0 +1,8 @@
+docker_id;generation;full_time;service;command
+5c83bb9d-4df2-46fd-a783-ebc9d6f17ebe;12;2025-10-18 10:44:31;5;cd /usr/bin/rootshell
+5c83bb9d-4df2-46fd-a783-ebc9d6f17ebe;12;2025-10-18 10:44:34;5;ls -la
+5c83bb9d-4df2-46fd-a783-ebc9d6f17ebe;12;2025-10-18 10:44:49;5;file asroot.c
+5c83bb9d-4df2-46fd-a783-ebc9d6f17ebe;12;2025-10-18 10:44:58;5;strings asroot.c
+5c83bb9d-4df2-46fd-a783-ebc9d6f17ebe;12;2025-10-18 10:47:24;5;ls -la /sys
+5c83bb9d-4df2-46fd-a783-ebc9d6f17ebe;12;2025-10-18 10:49:02;5;ls -la
+5c83bb9d-4df2-46fd-a783-ebc9d6f17ebe;12;2025-10-18 10:49:34;5;strings myShell

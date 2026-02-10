@@ -1,0 +1,2 @@
+docker_id;generation;full_time;service;command
+40ee9325-b89f-46c0-aa43-d3c295aeb384;4;2025-10-14 23:01:11;-1;for i in {11..19}; do ssh -p 2222 ot-user@10.0.0.$i 'ps -edf'; done

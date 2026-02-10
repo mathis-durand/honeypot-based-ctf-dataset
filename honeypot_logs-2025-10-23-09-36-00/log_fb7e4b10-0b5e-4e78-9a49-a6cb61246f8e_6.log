@@ -1,0 +1,8 @@
+docker_id;generation;full_time;service;command
+fb7e4b10-0b5e-4e78-9a49-a6cb61246f8e;6;2025-10-14 13:26:12;-1;cd /
+fb7e4b10-0b5e-4e78-9a49-a6cb61246f8e;6;2025-10-14 13:26:13;-1;ls
+fb7e4b10-0b5e-4e78-9a49-a6cb61246f8e;6;2025-10-14 13:26:17;-1;cd bin/
+fb7e4b10-0b5e-4e78-9a49-a6cb61246f8e;6;2025-10-14 13:26:18;-1;ls
+fb7e4b10-0b5e-4e78-9a49-a6cb61246f8e;6;2025-10-14 13:26:39;-1;sudo
+fb7e4b10-0b5e-4e78-9a49-a6cb61246f8e;6;2025-10-14 13:26:41;-1;sudo su
+fb7e4b10-0b5e-4e78-9a49-a6cb61246f8e;6;2025-10-14 13:27:00;-1;cat /etc/passwd

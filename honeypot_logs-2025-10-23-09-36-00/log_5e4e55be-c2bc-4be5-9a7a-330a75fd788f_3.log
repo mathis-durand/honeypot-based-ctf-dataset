@@ -1,0 +1,4 @@
+docker_id;generation;full_time;service;command
+5e4e55be-c2bc-4be5-9a7a-330a75fd788f;3;2025-10-20 18:13:03;-1;i=13
+5e4e55be-c2bc-4be5-9a7a-330a75fd788f;3;2025-10-20 18:13:03;-1;echo "== probing 10.0.0.$i =="
+5e4e55be-c2bc-4be5-9a7a-330a75fd788f;3;2025-10-20 18:13:03;-1;keyline=$(ssh-keyscan -p 2222 10.0.0.$i 2>/dev/null | head -n1) &&   { printf "%s\n" "$keyline"; printf "%s\n" "$keyline" | ssh-keygen -lf /dev/stdin 2>/dev/null || echo "fingerprint failed"; }

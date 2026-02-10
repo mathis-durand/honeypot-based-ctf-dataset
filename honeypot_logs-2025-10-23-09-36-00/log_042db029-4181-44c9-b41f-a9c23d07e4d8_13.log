@@ -1,0 +1,4 @@
+docker_id;generation;full_time;service;command
+042db029-4181-44c9-b41f-a9c23d07e4d8;13;2025-10-13 17:19:29;2;ps aux
+042db029-4181-44c9-b41f-a9c23d07e4d8;13;2025-10-13 17:19:35;2;IFS= read -r uptime_val _ < /proc/uptime 2>/dev/null
+042db029-4181-44c9-b41f-a9c23d07e4d8;13;2025-10-13 17:19:35;2;printf 'uptime_seconds=%s\n' "$uptime_val"

@@ -1,0 +1,2 @@
+docker_id;generation;full_time;service;command
+62794b4c-177f-4b50-adb3-38e4b662d085;2;2025-10-14 22:15:58;-1;echo "ls -la"

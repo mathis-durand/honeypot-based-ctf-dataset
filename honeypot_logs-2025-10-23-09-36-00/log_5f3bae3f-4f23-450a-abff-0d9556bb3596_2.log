@@ -1,0 +1,10 @@
+docker_id;generation;full_time;service;command
+5f3bae3f-4f23-450a-abff-0d9556bb3596;2;2025-10-14 11:20:59;-1;unminimize
+5f3bae3f-4f23-450a-abff-0d9556bb3596;2;2025-10-14 11:26:05;4;ls /home
+5f3bae3f-4f23-450a-abff-0d9556bb3596;2;2025-10-14 11:27:19;4;ps aux
+5f3bae3f-4f23-450a-abff-0d9556bb3596;2;2025-10-14 11:27:33;4;ls -laR /home
+5f3bae3f-4f23-450a-abff-0d9556bb3596;2;2025-10-14 11:27:54;4;cat .cache/motd.legal-displayed 
+5f3bae3f-4f23-450a-abff-0d9556bb3596;2;2025-10-14 11:28:07;4;ls -laR /app
+5f3bae3f-4f23-450a-abff-0d9556bb3596;2;2025-10-14 11:37:02;4;cat /etc/pam.d/sshd
+5f3bae3f-4f23-450a-abff-0d9556bb3596;2;2025-10-14 11:47:14;4;ls /home
+5f3bae3f-4f23-450a-abff-0d9556bb3596;2;2025-10-14 11:47:19;4;cat /etc/passwd

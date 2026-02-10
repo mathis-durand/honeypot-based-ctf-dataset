@@ -1,0 +1,10 @@
+docker_id;generation;full_time;service;command
+7312f0bb-07f3-4764-ae54-e4769d94b3be;1;2025-10-20 14:03:31;-1;ls ./.ssh/authorized_keys .
+7312f0bb-07f3-4764-ae54-e4769d94b3be;1;2025-10-20 14:03:35;-1;ls ./.ssh/
+7312f0bb-07f3-4764-ae54-e4769d94b3be;1;2025-10-20 14:03:47;-1;cat ./.ssh/authorized_keys
+7312f0bb-07f3-4764-ae54-e4769d94b3be;1;2025-10-20 14:04:21;-1;ls .ssh/authorized_keys
+7312f0bb-07f3-4764-ae54-e4769d94b3be;1;2025-10-20 14:04:52;-1;ls -la .ssh/
+7312f0bb-07f3-4764-ae54-e4769d94b3be;1;2025-10-20 14:05:20;-1;lscpu
+7312f0bb-07f3-4764-ae54-e4769d94b3be;1;2025-10-20 14:10:56;-1;ls -la
+7312f0bb-07f3-4764-ae54-e4769d94b3be;1;2025-10-20 14:12:24;-1;getent group | grep nobody1
+7312f0bb-07f3-4764-ae54-e4769d94b3be;1;2025-10-20 14:13:17;-1;usermod -a -G root nobody1

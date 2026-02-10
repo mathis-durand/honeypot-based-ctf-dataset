@@ -1,0 +1,8 @@
+docker_id;generation;full_time;service;command
+4ba026e5-cfb8-4eae-a8e1-0f87acc1bc6b;1;2025-10-15 16:20:31;7;ls -la
+4ba026e5-cfb8-4eae-a8e1-0f87acc1bc6b;1;2025-10-15 16:20:35;7;cd /app
+4ba026e5-cfb8-4eae-a8e1-0f87acc1bc6b;1;2025-10-15 16:20:42;7;ls -R
+4ba026e5-cfb8-4eae-a8e1-0f87acc1bc6b;1;2025-10-15 16:20:50;7;cd ssh/
+4ba026e5-cfb8-4eae-a8e1-0f87acc1bc6b;1;2025-10-15 16:20:51;7;ls -la
+4ba026e5-cfb8-4eae-a8e1-0f87acc1bc6b;1;2025-10-15 16:20:55;7;cat start.sh 
+4ba026e5-cfb8-4eae-a8e1-0f87acc1bc6b;1;2025-10-15 16:21:00;7;cat update-date.py 

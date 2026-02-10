@@ -1,0 +1,2 @@
+docker_id;generation;full_time;service;command
+f388a304-2458-482f-a960-b81343765898;9;2025-10-16 18:32:02;-1;ss -tn 2>/dev/null | head -n 40

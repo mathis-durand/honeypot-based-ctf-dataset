@@ -1,0 +1,20 @@
+docker_id;generation;full_time;service;command
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;21;2025-10-19 18:57:21;-1;nmap 10.0.0.11-19
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;21;2025-10-19 18:57:47;-1;exec 3<>/dev/tcp/10.0.0.15/80 && echo -e "GET / HTTP/1.0\n\n" >&3 && cat <&3
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;21;2025-10-19 18:59:21;-1;ssh -p 2222 -o StrictHostKeyChecking=no ot-user@10.0.0.15
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;21;2025-10-19 19:05:06;4;myshell *auto-alert*
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;21;2025-10-19 18:59:28;8;ls
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;21;2025-10-19 18:59:31;8;id
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;21;2025-10-19 18:59:56;8;ls /usr/bin/
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;21;2025-10-19 19:00:01;8;ls /usr/bin/rootshell/
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;21;2025-10-19 19:00:07;8;ls
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;21;2025-10-19 19:00:28;8;ps aux
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;21;2025-10-19 19:00:51;8;ps aux | grep nginx
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;21;2025-10-19 19:00:54;8;ps aux | grep http
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;21;2025-10-19 19:01:11;8;ls
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;21;2025-10-19 19:01:13;8;ls /app/
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;21;2025-10-19 19:01:19;8;ls -larth /app
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;21;2025-10-19 19:01:27;8;cat /app/update.py
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;21;2025-10-19 19:03:15;8;ls /usr/bin/
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;21;2025-10-19 19:03:19;8;ls /usr/bin/rootshell/
+f4da56a4-f98c-41ef-8e0a-9a8be67d8103;21;2025-10-19 19:03:59;8;ls /opt

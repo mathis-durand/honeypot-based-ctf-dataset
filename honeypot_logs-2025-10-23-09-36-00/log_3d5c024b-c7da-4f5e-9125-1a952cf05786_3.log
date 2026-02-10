@@ -1,0 +1,2 @@
+docker_id;generation;full_time;service;command
+3d5c024b-c7da-4f5e-9125-1a952cf05786;3;2025-10-18 21:32:13;2;open("/logs/command_history.log", "w").close()

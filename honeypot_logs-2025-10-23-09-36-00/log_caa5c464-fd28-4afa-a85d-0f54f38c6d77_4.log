@@ -1,0 +1,2 @@
+docker_id;generation;full_time;service;command
+caa5c464-fd28-4afa-a85d-0f54f38c6d77;4;2025-10-17 14:30:26;-1;journalctl --since "-30 min" --no-pager 2>/dev/null | tail -n 200

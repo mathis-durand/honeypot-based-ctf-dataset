@@ -1,0 +1,6 @@
+docker_id;generation;full_time;service;command
+4abf89b5-f33b-47b5-abba-53230313550f;1;2025-10-16 17:59:04;-1;ls
+4abf89b5-f33b-47b5-abba-53230313550f;1;2025-10-16 17:59:08;-1;pwds
+4abf89b5-f33b-47b5-abba-53230313550f;1;2025-10-16 17:59:10;-1;pwd
+4abf89b5-f33b-47b5-abba-53230313550f;1;2025-10-16 17:59:18;-1;hostname
+4abf89b5-f33b-47b5-abba-53230313550f;1;2025-10-16 17:59:28;-1;ipconfig /all

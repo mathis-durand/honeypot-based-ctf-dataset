@@ -1,0 +1,4 @@
+docker_id;generation;full_time;service;command
+7cf99363-919d-489e-a439-cfc2f0d6b68d;22;2025-10-14 12:02:42;-1;ssh -o StrictHostKeyChecking=no -p 2222 ot-user@10.0.0.16
+7cf99363-919d-489e-a439-cfc2f0d6b68d;22;2025-10-14 12:02:59;8;sudo -l
+7cf99363-919d-489e-a439-cfc2f0d6b68d;22;2025-10-14 12:03:14;8;cat /etc/ssh/sshd_config | grep -i "permit" 2>/dev/null

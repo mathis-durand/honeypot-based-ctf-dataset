@@ -1,0 +1,5 @@
+docker_id;generation;full_time;service;command
+d35fc16b-702f-4d52-a195-dc2640de6dea;4;2025-10-15 13:14:29;0;ls
+d35fc16b-702f-4d52-a195-dc2640de6dea;4;2025-10-15 13:16:03;0;id
+d35fc16b-702f-4d52-a195-dc2640de6dea;4;2025-10-15 13:16:38;0;sudo -l
+d35fc16b-702f-4d52-a195-dc2640de6dea;4;2025-10-15 13:17:03;0;find / -perm -u=s -type f -ls 2>/dev/null

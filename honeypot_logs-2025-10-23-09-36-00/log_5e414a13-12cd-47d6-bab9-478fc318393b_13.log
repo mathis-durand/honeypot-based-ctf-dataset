@@ -1,0 +1,2 @@
+docker_id;generation;full_time;service;command
+5e414a13-12cd-47d6-bab9-478fc318393b;13;2025-10-15 11:43:01;-1;ssh -v -p 2222 -o "PreferredAuthentications=none" -o "StrictHostKeyChecking=no" -o "UserKnownHostsFile=/dev/null" test@10.0.0.11

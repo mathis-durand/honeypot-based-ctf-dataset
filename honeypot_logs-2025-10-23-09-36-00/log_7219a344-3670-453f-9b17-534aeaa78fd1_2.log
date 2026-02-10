@@ -1,0 +1,3 @@
+docker_id;generation;full_time;service;command
+7219a344-3670-453f-9b17-534aeaa78fd1;2;2025-10-17 18:09:18;-1;ssh -p 2222 ot-user@10.0.0.11
+7219a344-3670-453f-9b17-534aeaa78fd1;2;2025-10-17 18:12:45;8;systemctl list-units --type=service --state=running --no-pager | sed -n '1,160p'

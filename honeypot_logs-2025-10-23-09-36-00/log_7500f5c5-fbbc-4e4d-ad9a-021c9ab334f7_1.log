@@ -1,0 +1,10 @@
+docker_id;generation;full_time;service;command
+7500f5c5-fbbc-4e4d-ad9a-021c9ab334f7;1;2025-10-17 10:57:58;-1;ls
+7500f5c5-fbbc-4e4d-ad9a-021c9ab334f7;1;2025-10-17 10:58:07;-1;ls -a
+7500f5c5-fbbc-4e4d-ad9a-021c9ab334f7;1;2025-10-17 10:58:09;-1;cd ..
+7500f5c5-fbbc-4e4d-ad9a-021c9ab334f7;1;2025-10-17 10:58:09;-1;ls
+7500f5c5-fbbc-4e4d-ad9a-021c9ab334f7;1;2025-10-17 10:58:13;-1;cd ubuntu/
+7500f5c5-fbbc-4e4d-ad9a-021c9ab334f7;1;2025-10-17 10:58:13;-1;ls
+7500f5c5-fbbc-4e4d-ad9a-021c9ab334f7;1;2025-10-17 10:58:16;-1;cd ..
+7500f5c5-fbbc-4e4d-ad9a-021c9ab334f7;1;2025-10-17 10:58:16;-1;ls
+7500f5c5-fbbc-4e4d-ad9a-021c9ab334f7;1;2025-10-17 10:58:42;-1;ip -a

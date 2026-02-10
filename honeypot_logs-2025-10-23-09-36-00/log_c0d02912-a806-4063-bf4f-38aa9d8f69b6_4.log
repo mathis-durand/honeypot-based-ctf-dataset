@@ -1,0 +1,4 @@
+docker_id;generation;full_time;service;command
+c0d02912-a806-4063-bf4f-38aa9d8f69b6;4;2025-10-21 21:36:49;-1;echo "cat /home/ot-admin/flag.txt" | /usr/bin/rootshell/*S*
+c0d02912-a806-4063-bf4f-38aa9d8f69b6;4;2025-10-21 21:36:51;-1;exit
+c0d02912-a806-4063-bf4f-38aa9d8f69b6;4;2025-10-21 21:37:24;7;myshell *auto-alert*

@@ -1,0 +1,7 @@
+docker_id;generation;full_time;service;command
+197a90fa-af13-4eb0-b151-5cae396b2fc3;2;2025-10-13 16:11:35;7;whoami
+197a90fa-af13-4eb0-b151-5cae396b2fc3;2;2025-10-13 16:11:44;7;id
+197a90fa-af13-4eb0-b151-5cae396b2fc3;2;2025-10-13 16:11:55;7;sudo -l
+197a90fa-af13-4eb0-b151-5cae396b2fc3;2;2025-10-13 16:12:48;7;ls -la
+197a90fa-af13-4eb0-b151-5cae396b2fc3;2;2025-10-13 16:12:58;7;cat README
+197a90fa-af13-4eb0-b151-5cae396b2fc3;2;2025-10-13 16:13:09;7;cat /etc/passwd

@@ -1,0 +1,5 @@
+docker_id;generation;full_time;service;command
+68a8c8cf-d44a-471a-940e-696868f230d4;5;2025-10-21 11:52:00;-1;ss
+68a8c8cf-d44a-471a-940e-696868f230d4;5;2025-10-21 11:52:05;-1;sudo
+68a8c8cf-d44a-471a-940e-696868f230d4;5;2025-10-21 11:52:09;-1;sudo su
+68a8c8cf-d44a-471a-940e-696868f230d4;5;2025-10-21 11:52:44;-1;service sshd status

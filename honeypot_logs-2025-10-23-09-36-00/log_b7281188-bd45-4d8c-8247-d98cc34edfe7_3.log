@@ -1,0 +1,7 @@
+docker_id;generation;full_time;service;command
+b7281188-bd45-4d8c-8247-d98cc34edfe7;3;2025-10-20 10:19:50;-1;hostname
+b7281188-bd45-4d8c-8247-d98cc34edfe7;3;2025-10-20 10:20:02;-1;nmap -p- -sC -sV 10.0.0.11-19
+b7281188-bd45-4d8c-8247-d98cc34edfe7;3;2025-10-20 10:26:19;-1;git clone https://github.com/platsecurity/CVE-2025-32433.git
+b7281188-bd45-4d8c-8247-d98cc34edfe7;3;2025-10-20 10:26:58;-1;pwd
+b7281188-bd45-4d8c-8247-d98cc34edfe7;3;2025-10-20 10:27:00;-1;ls
+b7281188-bd45-4d8c-8247-d98cc34edfe7;3;2025-10-20 10:28:25;-1;which python

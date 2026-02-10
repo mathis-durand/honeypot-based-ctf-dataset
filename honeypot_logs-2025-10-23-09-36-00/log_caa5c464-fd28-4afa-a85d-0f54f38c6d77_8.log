@@ -1,0 +1,2 @@
+docker_id;generation;full_time;service;command
+caa5c464-fd28-4afa-a85d-0f54f38c6d77;8;2025-10-17 14:34:58;-1;for i in $(seq 11 19); do   echo -n "10.0.0.$i: ";   timeout 3s ssh -p 2222 -oBatchMode=yes -oConnectTimeout=2 -oStrictHostKeyChecking=no ot-user@10.0.0.$i exit 2>&1 | grep -E "OpenSSH|Connection"; done

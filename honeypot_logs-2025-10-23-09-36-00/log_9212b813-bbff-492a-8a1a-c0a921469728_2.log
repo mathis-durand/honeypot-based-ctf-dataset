@@ -1,0 +1,8 @@
+docker_id;generation;full_time;service;command
+9212b813-bbff-492a-8a1a-c0a921469728;2;2025-10-16 17:40:02;-1;sudo -n -l
+9212b813-bbff-492a-8a1a-c0a921469728;2;2025-10-16 17:40:10;-1;sudo-l
+9212b813-bbff-492a-8a1a-c0a921469728;2;2025-10-16 17:40:13;-1;sudo -l
+9212b813-bbff-492a-8a1a-c0a921469728;2;2025-10-16 17:41:05;-1;sudo -n -l
+9212b813-bbff-492a-8a1a-c0a921469728;2;2025-10-16 17:41:09;-1;sudo -l
+9212b813-bbff-492a-8a1a-c0a921469728;2;2025-10-16 17:41:22;-1;sudo -n -l
+9212b813-bbff-492a-8a1a-c0a921469728;2;2025-10-16 17:44:09;-1;for i in $(seq 11 19); do   ip="10.0.0.$i";   echo "=== $ip ===";   ssh -p 2222 -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null       -o ConnectTimeout=3 ot-user@"$ip" 'sudo -n -l 2>&1 | head -n 20';   sleep 3; done

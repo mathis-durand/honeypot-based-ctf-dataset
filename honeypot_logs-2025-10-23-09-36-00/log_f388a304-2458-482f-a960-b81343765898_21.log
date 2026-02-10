@@ -1,0 +1,6 @@
+docker_id;generation;full_time;service;command
+f388a304-2458-482f-a960-b81343765898;21;2025-10-16 18:48:18;-1;clear
+f388a304-2458-482f-a960-b81343765898;21;2025-10-16 18:48:19;-1;cat /app/lobby/warning
+f388a304-2458-482f-a960-b81343765898;21;2025-10-16 18:50:14;-1;stat -c "%A %U %G %n" /app/lobby/warning
+f388a304-2458-482f-a960-b81343765898;21;2025-10-16 18:50:20;-1;cat /app/session-id
+f388a304-2458-482f-a960-b81343765898;21;2025-10-16 18:52:00;-1;ps aux | egrep -i "app|lobby|start\.sh|alert\.py|docker|ssh-key-drone|ssh-key-ctf" | sed -n '1,200p'
